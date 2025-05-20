@@ -14,7 +14,7 @@ sections:
       text: |
         <br>
         
-        The **Quantum Beams & Computation for Sustainable Materials** group is primarily focused on the use and development of neutron-based techniques to improve our knowledge of energy materials.
+        Based in the Materials Physics Center in Donostia San Sebastián, we are focused on the use and development of neutron-based and computation techniques to improve our knowledge of energy materials
 
   - block: markdown
     content:
@@ -33,7 +33,7 @@ sections:
           size: cover
           text_color_light: true
       spacing:
-        padding: ['20px', '0', '20px', '0']
+        padding: ['0', '0', '0', '0']
       css_class: fullscreen
 
   - block: markdown
@@ -41,6 +41,7 @@ sections:
       title:
       subtitle:
       text: |
+        {{% cta cta_link="./tour/" cta_text="Get the tour →" %}}
         {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
     design:
       columns: '1'
@@ -60,6 +61,25 @@ sections:
       offset: 0
       order: desc
       page_type: post
+    design:
+      view: card
+      columns: '1'
+
+  - block: collection
+    content:
+      title: Recent & Upcoming Events
+      subtitle:
+      text:
+      count: 5
+      filters:
+        author: ''
+        category: ''
+        exclude_featured: false
+        publication_type: ''
+        tag: ''
+      offset: 0
+      order: desc
+      page_type: event
     design:
       view: card
       columns: '1'

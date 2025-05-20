@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: contact
     content:
-      title: Contact
+      title: Contact us
       text: |-
         Looking for more information? Get in touch with us!
       email: felix.fernandez@ehu.eus

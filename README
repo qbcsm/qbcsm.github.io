@@ -1,8 +1,8 @@
 # Source code for the QBCSM web page
 
-Our web is very easy to mantain.
-It is created using [Hugo](https://gohugo.io/), which allows us to modify the content using simple markdown files instead of html, no code involved.
-The web is hosted on this GitHub repository, and it is deployed automatically through GitHub Actions.
+Our web is **very easy** to mantain.
+It is created using [Hugo](https://gohugo.io/), which allows us to modify the content using simple markdown files instead of scary html.
+The web is hosted on this GitHub repository, and it is deployed automatically through GitHub Actions without having to do anything.
 
 ## Adding content
 
@@ -12,16 +12,16 @@ The content that we should update regularly is located in the `content` director
 - `publication`. Links to our new publications.
 - `post`. Blog posts, latest news, etc. Everyone can share their thoughts here!
 
-Inside each of these folders we will find several other folders, each of them corresponding to a specific page.
-For example, the folder `event` contains a folder called `2024-09-setn` with an `index.md` and an image called `featured.jpg`.
-New events can be added by copying a previous one and updating the content accordingly. The same applies to the other folders.
+These folders contain several subfolders, each of which corresponds to a specific page.
+For example, the folder called 'event' has a subfolder called '2024-09-setn' with an 'index.md' and an image called 'featured.jpg'.
+You can add new events by copying an old one and changing the content. The same goes for the other folders.
 
-Note that although new images can be added in markdown format with whatever name we want, the main picture for all posts, events and publications must be named `featured.jpg` (or png, whatever).
-The only exception are profile pictures in the `authors` subfolders, which are named `avatar.jpg`.
-And just for emergencies, I left an `avatar_empty.jpg` next to this README in case we need it.
+You can add new images in Markdown format with whatever name you want, but the main picture for all posts, events and publications must be named `featured.jpg` (or png, whatever).
+The only exception to this are profile pictures in the 'authors' subfolders, which are named `avatar.jpg`.
+And just in case we can't find a pic for our new beloved comrade, I left an empty image file called 'avatar_empty.jpg'.
 
-To use a consistent naming, these new folders should be named with the date and name, as `YYYY-MM-name`, to keep the house clean.
-The exception are again the `authors` subfolders, which should be our own names.
+To keep things simple, it's best to name these subfolders using the date and name, like `YYYY-MM-name`, so we can keep the house tidy.
+The 'authors' subfolders are different, and these should be our own names.
 This is useful because now we only have to write our names as the authors of new publications, and everything will be linked automatically.
 
 New posts can be programmed for later by setting future dates in the `date` field.
