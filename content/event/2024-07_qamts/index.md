@@ -1,37 +1,37 @@
 ---
-title: International Conference on Neutron Scattering
+title: XXIst International Workshop on Quantum Atomic and Molecular Tunneling Systems (QAMTS2024)
 
-event: ICNS 2025
-event_url: https://www.icns2025.dk/
+event: QAMTS2024
+event_url: https://qamts2024.dipc.org/
 
-location: The Bella Center
+location: DIPC
 address:
   street:
-  city: Copenhaguen
-  region:
+  city: Donostia - San Sebastián
+  region: Gipuzkoa
   postcode: ''
-  country: Denmark
+  country: Spain
 
-summary: Oral presentation
+summary: Conference
 abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2025-07-06
-date_end: 2025-07-10
+date: 2024-07-16
+date_end: 2024-07-21
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2025-05-19
+publishDate: 2024-07-21T00:00:00Z
 
-authors: [pablo]
+authors: [cristina, pelayo]
 tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
 
 image:
-  caption: ''
+  caption:
   focal_point: Center
 
 url_code: ''
@@ -54,4 +54,5 @@ slides:
 projects:
 ---
 
-We will attend the upcoming International Conference on Neutron Scattering (ICNS) in Copenhaguen, Denmark. If you are also planning to attend, please let us know!
+The series of Workshops on Quantum Atomic and Molecular Tunneling Systems has always been highly cross-disciplinary.
+It encompasses work on tunneling of protons and heavier species in gas and condensed phases, in general, including biological systems, chemical reactions, transport phenomena in solids and liquids and in systems of lower dimensionality.

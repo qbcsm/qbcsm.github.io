@@ -1,37 +1,37 @@
 ---
-title: International Conference on Neutron Scattering
+title: Conference on Functional Molecular Photoswitchers for Energy Storage and Beyond
 
-event: ICNS 2025
-event_url: https://www.icns2025.dk/
+event: Switches4Energy
+event_url: https://www.res.es/en/events/JURES/18th-res-users-conference
 
-location: The Bella Center
+location:
 address:
   street:
-  city: Copenhaguen
+  city: Barcelona
   region:
   postcode: ''
-  country: Denmark
+  country: Spain
 
-summary: Oral presentation
+summary: Symposium
 abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2025-07-06
-date_end: 2025-07-10
+date: 2024-04-23
+date_end: 2024-04-26
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2025-05-19
+publishDate: 2024-09-19T00:00:00Z
 
-authors: [pablo]
+authors: [irene]
 tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
 
 image:
-  caption: ''
+  caption:
   focal_point: Center
 
 url_code: ''
@@ -54,4 +54,4 @@ slides:
 projects:
 ---
 
-We will attend the upcoming International Conference on Neutron Scattering (ICNS) in Copenhaguen, Denmark. If you are also planning to attend, please let us know!
+Discussed the latest developments in the field of photoswitching systems for energy storage and more, featuring oral presentations by both established and emerging researchers in Barcelona, Spain.

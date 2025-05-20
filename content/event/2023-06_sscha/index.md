@@ -1,37 +1,37 @@
 ---
-title: International Conference on Neutron Scattering
+title: SSCHA School 2023
 
-event: ICNS 2025
-event_url: https://www.icns2025.dk/
+event: SSCHA School 2023
+event_url: https://sscha.eu/Schools/2023/home/
 
-location: The Bella Center
+location:
 address:
   street:
-  city: Copenhaguen
+  city: Donostia - San Sebastián
   region:
   postcode: ''
-  country: Denmark
+  country: Spain
 
-summary: Oral presentation
+summary: School
 abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2025-07-06
-date_end: 2025-07-10
+date: 2023-06-26
+date_end: 2023-06-30
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2025-05-19
+publishDate: 2023-09-19T00:00:00Z
 
-authors: [pablo]
+authors: [tom, pelayo, kalith]
 tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
 
 image:
-  caption: ''
+  caption:
   focal_point: Center
 
 url_code: ''
@@ -54,4 +54,4 @@ slides:
 projects:
 ---
 
-We will attend the upcoming International Conference on Neutron Scattering (ICNS) in Copenhaguen, Denmark. If you are also planning to attend, please let us know!
+School to learn how to calculate thermodynamic, vibrational, transport, spectroscopic, and superconducting properties in strongly anharmonic materials using the Stochastic Self-Consistent Harmonic Approximation.

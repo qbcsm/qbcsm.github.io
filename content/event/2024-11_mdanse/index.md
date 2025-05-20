@@ -12,17 +12,17 @@ address:
   postcode: ''
   country: France
 
-summary: Poster presentation
+summary: School
 abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-11-05'
-date_end: '2024-11-07'
+date: 2024-11-05
+date_end: 2024-11-07
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: 2024-11-05T00:00:00Z
 
 authors: [pablo]
 tags: []

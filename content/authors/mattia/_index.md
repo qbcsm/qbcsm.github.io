@@ -77,5 +77,5 @@ email: ''
 # Available user_groups are defined at /content/people/index.html
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Previous members
+  - Previous members and collaborators
 ---

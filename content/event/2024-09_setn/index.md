@@ -1,37 +1,37 @@
 ---
-title: International Conference on Neutron Scattering
+title: Conference at the Spanish Society of Neutron Techniques (SETN2024)
 
-event: ICNS 2025
-event_url: https://www.icns2025.dk/
+event: SETN 2024
+event_url:
 
-location: The Bella Center
+location: Universitat Politècnica de València
 address:
   street:
-  city: Copenhaguen
+  city: Valencia
   region:
   postcode: ''
-  country: Denmark
+  country: Spain
 
-summary: Oral presentation
+summary: Conference
 abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2025-07-06
-date_end: 2025-07-10
+date: 2024-09-23
+date_end: 2024-09-25
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2025-05-19
+publishDate: 2024-11-05T00:00:00Z
 
-authors: [pablo]
+authors: [pablo, cristina, balthasar]
 tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
 
 image:
-  caption: ''
+  caption: Balthasar's talk
   focal_point: Center
 
 url_code: ''
@@ -54,4 +54,4 @@ slides:
 projects:
 ---
 
-We will attend the upcoming International Conference on Neutron Scattering (ICNS) in Copenhaguen, Denmark. If you are also planning to attend, please let us know!
+We attended the **SETN 2024** conference at the Universitat Politècnica de València, where we presented our latest work on functional materials for the energy transition, as well as the latest developments in compact neutron systems.

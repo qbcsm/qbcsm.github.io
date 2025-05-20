@@ -1,37 +1,37 @@
 ---
-title: International Conference on Neutron Scattering
+title: 17th RES USERS CONFERENCE
 
-event: ICNS 2025
-event_url: https://www.icns2025.dk/
+event: 17th RES USERS CONFERENCE
+event_url: https://www.bsc.es/news/events/17th-res-users-conference
 
-location: The Bella Center
+location: Auditorium of the Vertex building, Universitat Politécnica de Catalunya
 address:
   street:
-  city: Copenhaguen
+  city: Barcelona
   region:
   postcode: ''
-  country: Denmark
+  country: Spain
 
-summary: Oral presentation
+summary: Conference
 abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2025-07-06
-date_end: 2025-07-10
+date: 2023-09-13
+date_end: 2023-09-14
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2025-05-19
+publishDate: 2024-09-19T00:00:00Z
 
-authors: [pablo]
+authors: [tom, pelayo]
 tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
 
 image:
-  caption: ''
+  caption: Tom won the best poster award!
   focal_point: Center
 
 url_code: ''
@@ -54,4 +54,4 @@ slides:
 projects:
 ---
 
-We will attend the upcoming International Conference on Neutron Scattering (ICNS) in Copenhaguen, Denmark. If you are also planning to attend, please let us know!
+The Annual RES Users Conference organized by the Spanish Supercomputing Network (RES) to inform about RES news and to provide information of interest about access to its resources and about the European HPC ecosystem. Won price for best poster!

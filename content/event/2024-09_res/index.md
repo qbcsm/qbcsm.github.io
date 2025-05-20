@@ -1,37 +1,37 @@
 ---
-title: International Conference on Neutron Scattering
+title: Invited to the 18th RES USERS CONFERENCE
 
-event: ICNS 2025
-event_url: https://www.icns2025.dk/
+event: 18th RES USERS CONFERENCE
+event_url: https://www.res.es/en/events/JURES/18th-res-users-conference
 
-location: The Bella Center
+location: University of Málaga
 address:
   street:
-  city: Copenhaguen
+  city: Málaga
   region:
   postcode: ''
-  country: Denmark
+  country: Spain
 
-summary: Oral presentation
+summary: Conference
 abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2025-07-06
-date_end: 2025-07-10
+date: 2024-09-17
+date_end: 2024-09-19
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2025-05-19
+publishDate: 2024-09-19T00:00:00Z
 
-authors: [pablo]
+authors: [tom]
 tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
 
 image:
-  caption: ''
+  caption:
   focal_point: Center
 
 url_code: ''
@@ -54,4 +54,6 @@ slides:
 projects:
 ---
 
-We will attend the upcoming International Conference on Neutron Scattering (ICNS) in Copenhaguen, Denmark. If you are also planning to attend, please let us know!
+Tom won the best poster award last year, so this year he was invited to the Annual RES Users Conference organized by the Spanish Supercomputing Network (RES).
+He used this opportunity to inform about RES news and to provide information of interest about access to its resources and about the European HPC ecosystem.
+Won price for best poster!
