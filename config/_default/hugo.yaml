@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: QBCSM # Website name
-baseURL: 'https://pablogila.github.io/qbcsm/' # Website URL
+baseURL: 'https://qbcsm.github.io/' # Website URL
 
 ############################
 ## LANGUAGE
