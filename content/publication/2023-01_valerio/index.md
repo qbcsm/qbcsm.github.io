@@ -1,21 +1,19 @@
 ---
-title: 'Non-adiabatic electronic relaxation of tetracene from its brightest singlet excited state'
+title: 'Fast scanning calorimetry on volatile carbon-based materials'
 authors:
-- A. Scognamiglio
-- K. S. Thalmann
-- S. Hartweg
-- N. Rendler
-- L. Bruder
-- pedro
-- M. Thoss
-- F. Stienkemeier 
+- Valerio Di Lisio
+- balthasar
+- cristina
+- Margherita Simoni
+- Roberto Senesi
+- felix
+- Daniele Cangialosi
 #author_notes:
 #- Equal contribution
 #- whatever
 #- Equal contribution
-date: 2024-07-08
-doi: 
-DOI: https://doi.org/10.1063/5.0214006
+date: 2023-01-01
+doi: https://doi.org/10.1016/j.tca.2022.179414
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2024-01-03T00:00:00Z
@@ -26,23 +24,22 @@ publishDate: 2024-01-03T00:00:00Z
 publication_types: [article-journal]
 
 # Publication name and optional abbreviated publication name.
-publication: J. Chem. Phys. 161, 024302 (2024)
+publication: Thermochimica Acta 719 (2023) 179414
 publication_short:
 
-abstract: The ultrafast relaxation dynamics of tetracene following UV excitation to the bright singlet state S6 has been studied with time-resolved photoelectron spectroscopy. With the help of high-level ab initio multireference perturbation theory calculations, we assign photoelectron signals to intermediate dark electronic states S3, S4, and S5 as well as to a low-lying electronic state S2. The energetic structure of these dark states has not been determined experimentally previously. The time-dependent photoelectron yields assigned to the states S6, S5, and S4 have been analyzed and reveal the depopulation of S6 within 60 fs, while S5 and S4 are populated with delays of about 50 and 80 fs. The dynamics of the lower-lying states S3 and S2 seem to agree with a delayed population coinciding with the depopulation of the higher-lying states S4–S6 but could not be elucidated in full detail due to the low signal levels of the corresponding two-photon ionization probe processes.
+abstract: This work introduces a new sample-preparation methodology to investigate volatile materials with fast scanning calorimetry (FSC). The protocol consists of a two-step process involving the embedding of the specimen in an inert silicone-oil-based matrix followed by gold sputtering, in order to ensure full encapsulation and isolation from the surrounding environment. This novel approach is tested thoroughly on a series of three carbon-based materials – resorcinol, corannulene and perylene. In addition to establishing the validity of our methodology, the FSC data also gives access to new and hitherto unexplored regimes of thermodynamic stability and metastability in these materials, including the emergence of glassy states, cold crystallization, and solid-to-solid transformations.
 
 # Summary. An optional shortened abstract.
 summary:
 
 tags:
-- DFT
-- photoswitches
+- calorimetry
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://pubs.aip.org/aip/jcp/article-pdf/doi/10.1063/5.0214006/20030901/024302_1_5.0214006.pdf
+url_pdf: https://www.sciencedirect.com/science/article/pii/S0040603122002672/pdfft?md5=8f44a5746067e1a563778574e4c9df25&pid=1-s2.0-S0040603122002672-main.pdf
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: ''
 #url_poster: ''

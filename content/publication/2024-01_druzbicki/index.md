@@ -1,5 +1,5 @@
 ---
-title: Cation Dynamics as Structure Explorer in Hybrid Perovskites─The Case of MAPbI3
+title: 'Cation Dynamics as Structure Explorer in Hybrid Perovskites─The Case of MAPbI3'
 authors:
 - kacper
 - pablo

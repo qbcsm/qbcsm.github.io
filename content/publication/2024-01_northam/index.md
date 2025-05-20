@@ -1,24 +1,24 @@
 ---
-title: 'Non-adiabatic electronic relaxation of tetracene from its brightest singlet excited state'
+title: 'Metastability and polymorphism in dihydroxybenzenes – implications for thermal energy storage'
 authors:
-- A. Scognamiglio
-- K. S. Thalmann
-- S. Hartweg
-- N. Rendler
-- L. Bruder
+- tom
+- mattia
+- kalith
+- Valerio Di Lisio
+- Daniele Cangialosi
+- Alberto Otero-de-la-Roza
 - pedro
-- M. Thoss
-- F. Stienkemeier 
+- felix
 #author_notes:
 #- Equal contribution
 #- whatever
 #- Equal contribution
-date: 2024-07-08
-doi: 
-DOI: https://doi.org/10.1063/5.0214006
+date: 2024-01-05
+doi: https://doi.org/10.1039/D3YA00510K
+
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2024-01-03T00:00:00Z
+publishDate: 2024-05-20
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -26,23 +26,22 @@ publishDate: 2024-01-03T00:00:00Z
 publication_types: [article-journal]
 
 # Publication name and optional abbreviated publication name.
-publication: J. Chem. Phys. 161, 024302 (2024)
+publication: Energy Adv., 2024,3, 413-418
 publication_short:
 
-abstract: The ultrafast relaxation dynamics of tetracene following UV excitation to the bright singlet state S6 has been studied with time-resolved photoelectron spectroscopy. With the help of high-level ab initio multireference perturbation theory calculations, we assign photoelectron signals to intermediate dark electronic states S3, S4, and S5 as well as to a low-lying electronic state S2. The energetic structure of these dark states has not been determined experimentally previously. The time-dependent photoelectron yields assigned to the states S6, S5, and S4 have been analyzed and reveal the depopulation of S6 within 60 fs, while S5 and S4 are populated with delays of about 50 and 80 fs. The dynamics of the lower-lying states S3 and S2 seem to agree with a delayed population coinciding with the depopulation of the higher-lying states S4–S6 but could not be elucidated in full detail due to the low signal levels of the corresponding two-photon ionization probe processes.
+abstract: State-of-the-art calorimetric techniques have been used to explore the effects of molecular isomerism on the phase behaviour of the three dihydroxybenzenes catechol, resorcinol, and hydroquinone. Within the broader remit of the search and rational design of phase-change materials for thermal-energy storage, these data reveal a surprisingly rich (and hitherto unappreciated) behaviour, ranging from an unavoidable propensity to crystallize (hydroquinone) to the emergence of both disordered and ordered metastable phases well below the range of stability of the normal liquid (resorcinol and catechol). Catechol exhibits the most complex thermophysical response, and ab initio calculations evince a subtle interplay between intramolecular and intermolecular interactions, ultimately leading to the formation of new crystal phases.
 
 # Summary. An optional shortened abstract.
 summary:
 
 tags:
-- DFT
-- photoswitches
+- energy storage
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://pubs.aip.org/aip/jcp/article-pdf/doi/10.1063/5.0214006/20030901/024302_1_5.0214006.pdf
+url_pdf: https://pubs.rsc.org/en/content/articlepdf/2024/ya/d3ya00510k
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: ''
 #url_poster: ''

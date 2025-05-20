@@ -1,21 +1,16 @@
 ---
-title: 'Non-adiabatic electronic relaxation of tetracene from its brightest singlet excited state'
+title: 'Unraveling the Ordered Phase of the Quintessential Hybrid Perovskite MAPbI3─Thermophysics to the Rescue'
 authors:
-- A. Scognamiglio
-- K. S. Thalmann
-- S. Hartweg
-- N. Rendler
-- L. Bruder
-- pedro
-- M. Thoss
-- F. Stienkemeier 
+- pelayo
+- Ana Arauzo
+- kacper
+- felix
 #author_notes:
 #- Equal contribution
 #- whatever
 #- Equal contribution
-date: 2024-07-08
-doi: 
-DOI: https://doi.org/10.1063/5.0214006
+date: 2022-09-07
+doi: https://doi.org/10.1021/acs.jpclett.2c02208
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2024-01-03T00:00:00Z
@@ -26,23 +21,23 @@ publishDate: 2024-01-03T00:00:00Z
 publication_types: [article-journal]
 
 # Publication name and optional abbreviated publication name.
-publication: J. Chem. Phys. 161, 024302 (2024)
+publication: J. Phys. Chem. Lett. 2022, 13, 36, 8422–8428
 publication_short:
 
-abstract: The ultrafast relaxation dynamics of tetracene following UV excitation to the bright singlet state S6 has been studied with time-resolved photoelectron spectroscopy. With the help of high-level ab initio multireference perturbation theory calculations, we assign photoelectron signals to intermediate dark electronic states S3, S4, and S5 as well as to a low-lying electronic state S2. The energetic structure of these dark states has not been determined experimentally previously. The time-dependent photoelectron yields assigned to the states S6, S5, and S4 have been analyzed and reveal the depopulation of S6 within 60 fs, while S5 and S4 are populated with delays of about 50 and 80 fs. The dynamics of the lower-lying states S3 and S2 seem to agree with a delayed population coinciding with the depopulation of the higher-lying states S4–S6 but could not be elucidated in full detail due to the low signal levels of the corresponding two-photon ionization probe processes.
+abstract: Hybrid perovskites continue to attract an enormous amount of attention, yet a robust microscopic picture of their different phases as well as the extent and nature of the disorder present remains elusive. Using specific-heat data along with high-resolution inelastic neutron scattering and ab initio modeling, we address this ongoing challenge for the case of the ordered phase of the quintessential hybrid-perovskite MAPbI3. At low temperatures, the specific heat of MAPbI3 reveals strong deviations from the Debye limit, a common feature of pure hybrid perovskites and their mixtures. Our thermophysical analysis demonstrates that the (otherwise ordered) structure around the organic moiety is characterized by a substantial lowering of the local symmetry relative to what can be inferred from crystallographic studies. The physical origin of the observed thermophysical anomalies is unequivocally linked to excitations of sub-terahertz optical phonons responsible for translational–librational distortions of the octahedral units.
 
 # Summary. An optional shortened abstract.
 summary:
 
 tags:
 - DFT
-- photoswitches
+- perovskites
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://pubs.aip.org/aip/jcp/article-pdf/doi/10.1063/5.0214006/20030901/024302_1_5.0214006.pdf
+url_pdf: https://pubs.acs.org/doi/epdf/10.1021/acs.jpclett.2c02208?ref=article_openPDF
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: ''
 #url_poster: ''

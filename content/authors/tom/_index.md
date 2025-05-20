@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Tomas Stephen Northan de la Fuente
+title: T. S. Northan de la Fuente
 
 # Full name (for SEO)
 first_name: Tomas

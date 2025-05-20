@@ -1,5 +1,5 @@
 ---
-title: Neutron activation on NILE for quantitative chemical analysis – First results and outlook
+title: 'Neutron activation on NILE for quantitative chemical analysis – First results and outlook'
 authors:
 - cristina
 - Jennifer Huidobro
@@ -17,7 +17,7 @@ authors:
 #- Equal contribution
 date: 2024-06-27
 doi: 
-DOI: https://doi.org/10.1039/D4DT01056F
+DOI: https://doi.org/10.1051/epjconf/202429805002
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2024-01-03T00:00:00Z

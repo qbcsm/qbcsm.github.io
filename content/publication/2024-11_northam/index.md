@@ -1,48 +1,48 @@
 ---
-title: 'Non-adiabatic electronic relaxation of tetracene from its brightest singlet excited state'
+title: 'New materials for the recovery and storage of thermal energy'
 authors:
-- A. Scognamiglio
-- K. S. Thalmann
-- S. Hartweg
-- N. Rendler
-- L. Bruder
+- tom
+- irene
+- kalith
+- mattia
+- V. Di Lisio
+- D. Cangialosi
 - pedro
-- M. Thoss
-- F. Stienkemeier 
+- A. Otero-de-la-Roza
+- felix
 #author_notes:
 #- Equal contribution
 #- whatever
 #- Equal contribution
-date: 2024-07-08
+date: 2024-11-06
 doi: 
-DOI: https://doi.org/10.1063/5.0214006
+DOI: https://doi.org/10.1051/epjconf/202431000008 
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2024-01-03T00:00:00Z
+publishDate: 2025-04-19
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: [article-journal]
+publication_types: [paper-conference]
 
 # Publication name and optional abbreviated publication name.
-publication: J. Chem. Phys. 161, 024302 (2024)
+publication: EPJ Web of Conferences 310, 00008 (2024)
 publication_short:
 
-abstract: The ultrafast relaxation dynamics of tetracene following UV excitation to the bright singlet state S6 has been studied with time-resolved photoelectron spectroscopy. With the help of high-level ab initio multireference perturbation theory calculations, we assign photoelectron signals to intermediate dark electronic states S3, S4, and S5 as well as to a low-lying electronic state S2. The energetic structure of these dark states has not been determined experimentally previously. The time-dependent photoelectron yields assigned to the states S6, S5, and S4 have been analyzed and reveal the depopulation of S6 within 60 fs, while S5 and S4 are populated with delays of about 50 and 80 fs. The dynamics of the lower-lying states S3 and S2 seem to agree with a delayed population coinciding with the depopulation of the higher-lying states S4–S6 but could not be elucidated in full detail due to the low signal levels of the corresponding two-photon ionization probe processes.
+abstract: A significant fraction of the energy generated for industrial and domestic applications is lost in the form of heat. Because of this, thermal-energy storage materials are receiving increasing attention as a means of storing the generated heat for later use. In this paper, a brief description is given of two types of materials used in thermal-energy-storage devices – phase change materials for latent heat storage and photoswitches for chemical energy storage. In addition, we provide a succint account of the experimental and computational tools needed to understand the microscopic mechanisms of energy storage and to facilitate the rational design of new materials.
 
 # Summary. An optional shortened abstract.
 summary:
 
 tags:
-- DFT
-- photoswitches
+- energy storage
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://pubs.aip.org/aip/jcp/article-pdf/doi/10.1063/5.0214006/20030901/024302_1_5.0214006.pdf
+url_pdf: https://www.epj-conferences.org/articles/epjconf/pdf/2024/20/epjconf_lnes2024_00008.pdf
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: ''
 #url_poster: ''

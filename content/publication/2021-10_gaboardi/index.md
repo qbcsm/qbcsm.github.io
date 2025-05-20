@@ -1,21 +1,17 @@
 ---
-title: 'Non-adiabatic electronic relaxation of tetracene from its brightest singlet excited state'
+title: 'Emergence of dynamical disorder and phase metastability in carbon nanobowls'
 authors:
-- A. Scognamiglio
-- K. S. Thalmann
-- S. Hartweg
-- N. Rendler
-- L. Bruder
-- pedro
-- M. Thoss
-- F. Stienkemeier 
+- mattia
+- Ian Silverwood
+- balthasar
+- Jay Siegel
+- felix
 #author_notes:
 #- Equal contribution
 #- whatever
 #- Equal contribution
-date: 2024-07-08
-doi: 
-DOI: https://doi.org/10.1063/5.0214006
+date: 2021-10-15
+doi: https://doi.org/10.1016/j.carbon.2021.07.003
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2024-01-03T00:00:00Z
@@ -26,23 +22,22 @@ publishDate: 2024-01-03T00:00:00Z
 publication_types: [article-journal]
 
 # Publication name and optional abbreviated publication name.
-publication: J. Chem. Phys. 161, 024302 (2024)
+publication: Carbon 2022, 183, 196-204
 publication_short:
 
-abstract: The ultrafast relaxation dynamics of tetracene following UV excitation to the bright singlet state S6 has been studied with time-resolved photoelectron spectroscopy. With the help of high-level ab initio multireference perturbation theory calculations, we assign photoelectron signals to intermediate dark electronic states S3, S4, and S5 as well as to a low-lying electronic state S2. The energetic structure of these dark states has not been determined experimentally previously. The time-dependent photoelectron yields assigned to the states S6, S5, and S4 have been analyzed and reveal the depopulation of S6 within 60 fs, while S5 and S4 are populated with delays of about 50 and 80 fs. The dynamics of the lower-lying states S3 and S2 seem to agree with a delayed population coinciding with the depopulation of the higher-lying states S4–S6 but could not be elucidated in full detail due to the low signal levels of the corresponding two-photon ionization probe processes.
+abstract: The condensed phases of the carbon-based nanobowl corannulene are herein investigated in the temperature range 200–573 K, combining differential scanning calorimetry, synchrotron X-ray diffraction, and quasielastic neutron-scattering. For the first time, we identify the presence of a well-defined thermal event at 382 K, a figure well below a melting point of 540 K. Contrary to naïve expectation, detailed analysis of the neutron-scattering data below and above this pre-melting transition signals the emergence of correlated stochastic dynamics within both thermodynamically stable solid phases of the material. We find that these are progressively responsible for the suppression of molecular and supramolecular order over mesoscopic length scales, and are associated with the formation of high-symmetry rotor-like states exhibiting localized stochastic motions. Upon cooling from the melt, we have also discovered a robust hysteresis associated with the existence of hitherto-unknown metastable liquid (deep-supercooled) and disordered-solid phases. This behaviour is markedly different from that observed in the quintessential Buckminsterfullerene C60 or other chemically substituted fullerene adducts studied to date at this level of detail. These results evince new and yet-to-tapped opportunities for the use of the stable and metastable phases of carbon-based nanobowls in novel applications exploiting the emergence of dynamical disorder at the nanoscale.
 
 # Summary. An optional shortened abstract.
 summary:
 
 tags:
-- DFT
-- photoswitches
+
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://pubs.aip.org/aip/jcp/article-pdf/doi/10.1063/5.0214006/20030901/024302_1_5.0214006.pdf
+#url_pdf:
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: ''
 #url_poster: ''

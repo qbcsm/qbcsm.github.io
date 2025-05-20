@@ -1,24 +1,24 @@
 ---
-title: 'Non-adiabatic electronic relaxation of tetracene from its brightest singlet excited state'
+title: 'Simple Encoded Circularly Polarized Protein Lighting'
 authors:
-- A. Scognamiglio
-- K. S. Thalmann
-- S. Hartweg
-- N. Rendler
-- L. Bruder
+- Stephanie Grümbel
+- Marco Hasler
+- Sara Ferrara
+- Marta Patrian
+- Jesús Agustín Banda-Vázquez
 - pedro
-- M. Thoss
-- F. Stienkemeier 
+- Juan Pablo Fuenzalida Werner
+- Rubén D. Costa
 #author_notes:
 #- Equal contribution
 #- whatever
 #- Equal contribution
-date: 2024-07-08
-doi: 
-DOI: https://doi.org/10.1063/5.0214006
+date: 2024-05-16
+doi: https://doi.org/10.1002/adom.202400106
+
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2024-01-03T00:00:00Z
+publishDate: 2024-05-16
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -26,23 +26,22 @@ publishDate: 2024-01-03T00:00:00Z
 publication_types: [article-journal]
 
 # Publication name and optional abbreviated publication name.
-publication: J. Chem. Phys. 161, 024302 (2024)
+publication: Adv. Optical Mater. 2024, 12, 2400106.
 publication_short:
 
-abstract: The ultrafast relaxation dynamics of tetracene following UV excitation to the bright singlet state S6 has been studied with time-resolved photoelectron spectroscopy. With the help of high-level ab initio multireference perturbation theory calculations, we assign photoelectron signals to intermediate dark electronic states S3, S4, and S5 as well as to a low-lying electronic state S2. The energetic structure of these dark states has not been determined experimentally previously. The time-dependent photoelectron yields assigned to the states S6, S5, and S4 have been analyzed and reveal the depopulation of S6 within 60 fs, while S5 and S4 are populated with delays of about 50 and 80 fs. The dynamics of the lower-lying states S3 and S2 seem to agree with a delayed population coinciding with the depopulation of the higher-lying states S4–S6 but could not be elucidated in full detail due to the low signal levels of the corresponding two-photon ionization probe processes.
+abstract: Lighting systems with circularly polarized luminescence (CPL) are an emerging field with high hopes in, for example, neural cell circuits and encoding applications. The major challenges that forfeits their real-world application are i) the design of chiroptical materials (CMs) with high CPL brightness (BCPL; today's record is Eu-based compounds with average 287 M−1cm−1, while 90% of other CMs show <150 M−1cm−1 in solution) and ii) how to keep CPL response in films/coatings of technological relevance. Since natural evolution is driven by chiral selectivity at the supramolecular level, fluorescent proteins (FPs) are ideal candidates to provide large BCPL spanning visible and near-infrared regions. This hypothesis is confirmed for all the known FP classes, demonstrating high emission intensities (photoluminescence quantum yields (ϕ) up to 76%) and record average BCPL of |200| M−1cm−1 (solution). What is more, the CPL response is also kept in polymer coatings. It is rationalized that structural factors (chromophore rigidity, surrounding amino acids, supramolecular packaging, and exciton coupling) hold a significant influence, regardless of the ϕ values. Finally, proof-of-concept CPL-encoded signals in monochromatic/white hybrid light-emitting diodes with FP-polymer filters show exceptional stabilities. Overall, this work stands out FPs toward a new CM family, in general, and biogenic CPL-encoded lighting systems, in particular.
 
 # Summary. An optional shortened abstract.
 summary:
 
 tags:
-- DFT
-- photoswitches
+- energy storage
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://pubs.aip.org/aip/jcp/article-pdf/doi/10.1063/5.0214006/20030901/024302_1_5.0214006.pdf
+url_pdf: https://advanced.onlinelibrary.wiley.com/doi/epdf/10.1002/adom.202400106
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: ''
 #url_poster: ''
