@@ -26,10 +26,10 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: PhD candidate at the Materials Physics Center, Donostia - San Sebastián.
 
-interests:
-  - Functional materials for energy applications
-  - Compact neutron systems
-  - Neutron science
+#interests:
+#  - Functional materials for energy applications
+#  - Compact neutron systems
+#  - Neutron science
 
 #education:
 #  courses:

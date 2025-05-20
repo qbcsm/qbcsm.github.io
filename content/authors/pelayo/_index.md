@@ -30,11 +30,11 @@ interests:
   - Functional materials for energy applications
   - Neutron science
 
-#education:
-#  courses:
-#    - course: PhD in Physics of Nanostructures and Advanced Materials
-#      institution: University of the Basque Country
-#      year: 2023
+education:
+  courses:
+    - course: PhD in Physics of Nanostructures and Advanced Materials
+      institution: University of the Basque Country
+      year: (current)
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

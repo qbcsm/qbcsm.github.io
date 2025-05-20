@@ -1,8 +1,34 @@
 # Source code for the QBCSM web page
 
-Our web is created using the [Hugo](https://gohugo.io/) static site generator. This allows us to modify the content using markdown files, no code involved. The web is hosted on GitHub Pages, and it is deployed automatically through GitHub Actions.
+Our web is very easy to mantain.
+It is created using [Hugo](https://gohugo.io/), which allows us to modify the content using simple markdown files instead of html, no code involved.
+The web is hosted on this GitHub repository, and it is deployed automatically through GitHub Actions.
 
-Most of the content is in the `content` folder. The subfolders should be self-explanatory. Embedded images are placed on each individual folder (person, event, post, etc), except for the main menus (main index, tour, contact, etc) which are placed in the `assets/media` folder.
+## Adding content
 
-Note that new posts can be programmed for later by setting future dates in the `date` field.
+The content that we should update regularly is located in the `content` directory. The folders that we should modify are:
+- `authors`. Here we add new people to the group.
+- `event`. New events.
+- `publication`. Links to our new publications.
+- `post`. Blog posts, latest news, etc. Everyone can share their thoughts here!
+
+Inside each of these folders we will find several other folders, each of them corresponding to a specific page.
+For example, the folder `event` contains a folder called `2024-09-setn` with an `index.md` and an image called `featured.jpg`.
+New events can be added by copying a previous one and updating the content accordingly. The same applies to the other folders.
+
+Note that although new images can be added in markdown format with whatever name we want, the main picture for all posts, events and publications must be named `featured.jpg` (or png, whatever).
+The only exception are profile pictures in the `authors` subfolders, which are named `avatar.jpg`.
+And just for emergencies, I left an `avatar_empty.jpg` next to this README in case we need it.
+
+To use a consistent naming, these new folders should be named with the date and name, as `YYYY-MM-name`, to keep the house clean.
+The exception are again the `authors` subfolders, which should be our own names.
+This is useful because now we only have to write our names as the authors of new publications, and everything will be linked automatically.
+
+New posts can be programmed for later by setting future dates in the `date` field.
+The same can be achieved for publications and events with the `publishDate` field.
+
+## Editing the main menus
+
+The design for the main menus can be modified also from the `content` directory, from `_index.md`, `tour`, `contact`, and `people`.
+The shared images for these menus are located in the `assets/media` folder.
 
