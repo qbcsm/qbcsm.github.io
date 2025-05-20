@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Pedro Braña Coto
+title: Pedro B. Coto
 
 # Full Name (for SEO)
 first_name: Pedro
@@ -47,12 +47,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:pedro.brana@csic.es'
-#  - icon: orcid
-#    icon_pack: fab
-#    link: https://YOUR-ORCID-ID
-  - icon: google-scholar
+  - icon: orcid
     icon_pack: fab
-    link: https://scholar.google.co.uk/citations?user=_zEa6R4AAAAJ&hl=en
+    link: https://orcid.org/0000-0001-9199-8387
+#  - icon: google-scholar
+#    icon_pack: fab
+#    link: https://scholar.google.co.uk/YOUR-PROFILE-URL
 #  - icon: researchgate
 #    icon_pack: fab
 #    link: https://www.researchgate.net/profile/YOUR-PROFILE-URL
