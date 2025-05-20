@@ -1,0 +1,8 @@
+# Source code for the QBCSM web page
+
+Our web is created using the [Hugo](https://gohugo.io/) static site generator. This allows us to modify the content using markdown files, no code involved. The web is hosted on GitHub Pages, and it is deployed automatically through GitHub Actions.
+
+Most of the content is in the `content` folder. The subfolders should be self-explanatory. Embedded images are placed on each individual folder (person, event, post, etc), except for the main menus (main index, tour, contact, etc) which are placed in the `assets/media` folder.
+
+Note that new posts can be programmed for later by setting future dates in the `date` field.
+
