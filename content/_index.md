@@ -15,26 +15,7 @@ sections:
         <br>
         
         The **Quantum Beams & Computation for Sustainable Materials** group is primarily focused on the use and development of neutron-based techniques to improve our knowledge of energy materials.
-  
-  - block: collection
-    content:
-      title: Latest News
-      subtitle:
-      text:
-      count: 5
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: post
-    design:
-      view: card
-      columns: '1'
-  
+
   - block: markdown
     content:
       title:
@@ -55,6 +36,34 @@ sections:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
 
+  - block: markdown
+    content:
+      title:
+      subtitle:
+      text: |
+        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+    design:
+      columns: '1'
+
+  - block: collection
+    content:
+      title: Latest News
+      subtitle:
+      text:
+      count: 5
+      filters:
+        author: ''
+        category: ''
+        exclude_featured: false
+        publication_type: ''
+        tag: ''
+      offset: 0
+      order: desc
+      page_type: post
+    design:
+      view: card
+      columns: '1'
+
   - block: collection
     content:
       title: Latest Articles
@@ -63,17 +72,8 @@ sections:
       filters:
         folders:
           - publication
-        publication_type: 'article'
+        publication_type:
     design:
       view: citation
-      columns: '1'
-
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
-    design:
       columns: '1'
 ---
