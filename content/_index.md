@@ -66,7 +66,7 @@ sections:
 
   - block: collection
     content:
-      title: Latest Articles
+      title: Latest Publications
       text: ""
       count: 5
       filters:
