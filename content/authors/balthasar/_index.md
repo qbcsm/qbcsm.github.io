@@ -35,6 +35,9 @@ education:
     - course: PhD in Physics of Nanostructures and Advanced Materials
       institution: University ofthe Basque Country
       year: (current)
+    - course: MSc in Chemistry
+      institution: Imperial College London
+      year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
