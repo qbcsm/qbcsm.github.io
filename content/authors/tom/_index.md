@@ -1,10 +1,10 @@
 ---
 # Display name
-title: T. S. Northan de la Fuente
+title: Tomas Stephen Northam de la Fuente
 
 # Full name (for SEO)
 first_name: Tomas
-last_name: Stephen Northan de la Fuente
+last_name: Stephen Northam de la Fuente
 
 # Username (this should match the folder name)
 authors:

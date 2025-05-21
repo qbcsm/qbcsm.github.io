@@ -29,7 +29,7 @@ sections:
           position: center
           color: '#555'
       - title: Towards compact neutron systems
-        content: "We are actively developing new methodologies that open up new doors to industry and researchers"
+        content: "We are actively developing new methodologies that open up new doors to industry and research"
         align: left
         background:
           image:
