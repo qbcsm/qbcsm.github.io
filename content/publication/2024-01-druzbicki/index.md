@@ -1,5 +1,7 @@
 ---
 title: 'Cation Dynamics as Structure Explorer in Hybrid Perovskites─The Case of MAPbI3'
+# Our names are compiled automatically from the list of authors:
+# https://github.com/qbcsm/qbcsm.github.io/tree/main/content/authors
 authors:
 - kacper
 - pablo
@@ -15,11 +17,14 @@ date: 2024-01-03
 doi: https://doi.org/10.1021/acs.cgd.3c01112
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2024-01-03T00:00:00Z
+publishDate: 2024-01-03
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
-# Enter a publication type from the CSL standard.
+# Enter a publication type from the CSL standard, e.g.:
+# preprints             ->  article
+# journal publications  ->  article-journal
+# conference papers     ->  paper-conference
 publication_types: [article-journal]
 
 # Publication name and optional abbreviated publication name.
@@ -69,17 +74,9 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides:
 ---
-
-<!-- Main text. Remove this comment and add your extra content here.
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
-
+<!-- Optional main text goes below this comment.
+You can include the publication's full text or supplementary notes.
+You can use rich formatting such as including code, math, and images:
+https://docs.hugoblox.com/content/writing-markdown-latex/
 -->
+
