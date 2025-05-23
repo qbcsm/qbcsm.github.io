@@ -1,6 +1,6 @@
 ---
 title: "Cation Dynamics as Structure Explorer in Hybrid Perovskites─The Case of MAPbI3"
-# Our names are compiled automatically from the list of authors:
+# Authors are linked automatically with our profiles:
 # https://github.com/qbcsm/qbcsm.github.io/tree/main/content/authors
 authors:
 - kacper

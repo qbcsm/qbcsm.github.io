@@ -26,7 +26,7 @@ all_day: true
 publishDate: 2024-07-21
 
 # Who participated?
-# Our names are compiled automatically from the list of authors:
+# Authors are linked automatically with our profiles:
 # https://github.com/qbcsm/qbcsm.github.io/tree/main/content/authors
 authors: [cristina, pelayo]
 

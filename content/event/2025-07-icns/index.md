@@ -12,7 +12,7 @@ address:
   postcode: ''
   country: Denmark
 
-summary: Oral presentation
+summary: Conference
 abstract: ''
 
 # Talk start and end times.

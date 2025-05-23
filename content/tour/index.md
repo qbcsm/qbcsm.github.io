@@ -58,6 +58,16 @@ sections:
               brightness: 0.5
           position: center
           color: '#555'
+      - title: High-Performance Computing
+        content: "*In-silicon* models help us understand the fundamental interactions defining the nature of our samples"
+        align: center
+        background:
+          image:
+            filename: simulations.jpg
+            filters:
+              brightness: 0.5
+          position: center
+          color: '#555'
       - title: Multidisciplinary team
         content: "The vibrant environment of Donostia San Sebastián enables us to play an active role in cutting-edge materials research. Meet [our team](../people/) and drop by for a visit, or meet us at the [next event](../event/)!"
         align: left
@@ -69,7 +79,7 @@ sections:
           position: center
           color: '#555'
       - title: Want to know more?
-        content: "Check our [latest works](../publication/)! Other group updates [on our blog](../post/)"
+        content: "Check our [latest works](../publication/) and see what's new [on our blog](../post/)"
         align: right
         background:
           image:
