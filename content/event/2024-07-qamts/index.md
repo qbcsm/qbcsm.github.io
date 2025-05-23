@@ -1,5 +1,5 @@
 ---
-title: XXI International Workshop on Quantum Atomic and Molecular Tunneling Systems (QAMTS2024)
+title: "XXI International Workshop on Quantum Atomic and Molecular Tunneling Systems (QAMTS2024)"
 
 event: QAMTS2024
 event_url: https://qamts2024.dipc.org/
