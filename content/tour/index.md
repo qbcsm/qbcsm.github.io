@@ -48,22 +48,22 @@ sections:
               brightness: 0.5
           position: center
           color: '#555'
-      - title: Multidisciplinary team
-        content: "The vibrant environment of San Sebastián enables us to play an active role in cutting-edge materials research. Meet [our team](../people/) and drop by for a visit, or meet us at the [next event](../event/)!"
-        align: left
-        background:
-          image:
-            filename: welcome.jpg
-            filters:
-              brightness: 0.5
-          position: center
-          color: '#555'
       - title: Analysis and characterization
         content: "A range of techniques, from optical spectral analysis to flash calorimetry, allow us to expand our knowledge of new exciting materials"
         align: left
         background:
           image:
             filename: chip.jpg
+            filters:
+              brightness: 0.5
+          position: center
+          color: '#555'
+      - title: Multidisciplinary team
+        content: "The vibrant environment of Donostia San Sebastián enables us to play an active role in cutting-edge materials research. Meet [our team](../people/) and drop by for a visit, or meet us at the [next event](../event/)!"
+        align: left
+        background:
+          image:
+            filename: welcome.jpg
             filters:
               brightness: 0.5
           position: center
