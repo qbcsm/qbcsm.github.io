@@ -57,9 +57,9 @@ social:
   - icon: google-scholar
     icon_pack: fab
     link: https://scholar.google.es/citations?user=fi6cjjEAAAAJ&hl=es&oi=ao
-#  - icon: researchgate
-#    icon_pack: fab
-#    link: https://www.researchgate.net/profile/YOUR-PROFILE-URL
+  - icon: researchgate
+    icon_pack: fab
+    link: https://www.researchgate.net/profile/Pablo-Gila-Herranz
   - icon: github
     icon_pack: fab
     link: https://github.com/pablogila
