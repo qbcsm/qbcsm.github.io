@@ -18,11 +18,13 @@ role: CSIC Tenured Research Scientist
 
 # Organizations/Affiliations
 organizations:
+- name: Nanomaterials and Nanotechnology Research Center (CINN)
+    url: ''
+  - name: Consejo Superior de Investigaciones Científicas (CSIC)
+    url: ''
   - name: Materials Physics Center (CFM-MPC), CSIC-UPV/EHU, Donostia - San Sebastián
     url: ''
   - name: Donostia International Physics Center (DIPC), Donostia-San Sebastián
-    url: ''
-  - name: Centro Superior de Investigaciones Científicas (CSIC)
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -91,6 +93,7 @@ user_groups:
 I received my Ph.D. from the University of Oviedo (Spain) in 2003.
 After postdoctoral research with Prof. M. Olivucci at the University of Siena (Italy), Prof. M. Merchán at the University of Valencia (Spain), and Prof. M. Thoss at the University of Erlangen-Nürnberg (Germany), I returned to the University of Oviedo as a Beatriz Galindo Senior Distinguished Researcher.
 
-In 2020, I got a permanent position at the Materials Physics Center (CSIC) in San Sebastián (Spain) as Research Scientist (tenured).
+In 2020, I got a permanent position at the Materials Physics Center (CSIC) in San Sebastián (Spain) as Research Scientist. In 2024, I moved to the Nanomaterials and Nanotechnology Research Center (CINN) 
+in El Entrego (Spain).
 
 My research interests are the theoretical investigation of excited state photophysical and photochemical processes and charge transfer and transport processes in novel materials with applications to nanoelectronics, organic photovoltaics, and lighting.
