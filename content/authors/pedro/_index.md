@@ -18,7 +18,7 @@ role: CSIC Tenured Research Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: Nanomaterials and Nanotechnology Research Center (CINN)
+  - name: Nanomaterials and Nanotechnology Research Center (CINN)
     url: ''
   - name: Consejo Superior de Investigaciones Científicas (CSIC)
     url: ''
