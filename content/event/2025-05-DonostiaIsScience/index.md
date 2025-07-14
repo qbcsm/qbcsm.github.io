@@ -31,7 +31,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Our poster presentation at the school'
+  caption: 'Title page of the presentation given'
   focal_point: Center
 
 url_code: ''
