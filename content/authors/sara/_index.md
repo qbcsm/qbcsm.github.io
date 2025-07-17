@@ -68,7 +68,7 @@ social:
 #    link: #https://github.com/pablogila
   - icon: linkedin
     icon_pack: fab
-    link: www.linkedin.com/in/sara-altaieb-ahmed-saad-507100284
+    link: https://www.linkedin.com/in/sara-altaieb-ahmed-saad-507100284
 #  - icon: twitter
 #    icon_pack: fab
 #    link: https://twitter.com/YOUR-USERNAME
