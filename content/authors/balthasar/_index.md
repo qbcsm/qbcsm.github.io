@@ -33,7 +33,7 @@ interests:
 education:
   courses:
     - course: PhD in Physics of Nanostructures and Advanced Materials
-      institution: University ofthe Basque Country
+      institution: University of the Basque Country
       year: (current)
     - course: MSc in Chemistry
       institution: Imperial College London

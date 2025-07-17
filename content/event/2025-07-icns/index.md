@@ -1,10 +1,10 @@
 ---
-title: International Conference on Neutron Scattering
+title: International Conference on Neutron Scattering ICNS2025
 
 event: ICNS 2025
 event_url: https://www.icns2025.dk/
 
-location: The Bella Center
+location: European Spallation Source ESS
 address:
   street:
   city: Copenhaguen

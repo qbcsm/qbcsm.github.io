@@ -1,5 +1,5 @@
 ---
-title: Conference at the Spanish Society of Neutron Techniques (SETN2024)
+title: Spanish Society of Neutron Techniques SETN2024
 
 event: SETN 2024
 event_url:

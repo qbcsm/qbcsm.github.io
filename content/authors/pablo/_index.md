@@ -28,13 +28,13 @@ bio: PhD candidate at the Materials Physics Center, Donostia - San Sebastián.
 
 interests:
   - Functional materials for energy applications
-  - Compact neutron systems
-  - Neutron science
+  - Compact Accelerator-based Neutron Systems (CANS)
+  - High-pressure neutron spectroscopy
 
 education:
   courses:
     - course: PhD in Physics of Nanostructures and Advanced Materials
-      institution: University ofthe Basque Country
+      institution: University of the Basque Country
       year: (current)
     - course: MSc in Nanoscience and Nanotechnology
       institution: University of the Basque Country

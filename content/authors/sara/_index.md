@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Cristina Maciá-Castelló
+title: Sara Altaieb Ahmed Saad
 
 # Full Name (for SEO)
-first_name: Cristina
-last_name: Maciá-Castelló
+first_name: Sara
+last_name: Altaieb Ahmed Saad
 
 # Username (this should match the folder name)
 authors:
-  - cristina
+  - sara
 
 # Is this the primary user of the site?
 superuser: false
@@ -27,18 +27,24 @@ organizations:
 bio: PhD candidate at the Materials Physics Center, Donostia - San Sebastián.
 
 interests:
-  - Construction materials
-  - Compact neutron systems
-  - Neutron science
+  - Functional materials for energy applications
+  - Structure property relations in solids
+  - Neutron spectroscopy
 
 education:
   courses:
     - course: PhD in Physics of Nanostructures and Advanced Materials
       institution: University of the Basque Country
       year: (current)
-    - course: MSc in Nanoscience and Nanotechnology
-      institution: University of the Basque Country
-      year: 2022
+    - course: MSc in Materials Science and Engineering
+      institution: XJTU, China
+      year: 2021-2024
+    - course: MSc in Mathematical Sciences
+      institution: AIMS-Senegal
+      year: 2018-2019
+    - course: BSc in Physics
+      institution: Neelain University
+      year: 2010-2015
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -47,22 +53,22 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:cmacia001@ikasle.ehu.eus'
+    link: 'mailto:sara.saad@aims-senegal.org'
 #  - icon: orcid
 #    icon_pack: fab
-#    link: https://YOUR-ORCID-ID
-  - icon: google-scholar
-    icon_pack: fab
-    link: https://scholar.google.com/citations?user=ypjPThwAAAAJ&hl=es
-#  - icon: researchgate
+#    link: https://orcid.org/0000-0002-9480-9876
+#  - icon: google-scholar
 #    icon_pack: fab
-#    link: https://www.researchgate.net/profile/YOUR-PROFILE-URL
+#    link: https://www.researchgate.net/profile/Sara-Saad-48
+  - icon: researchgate
+    icon_pack: fab
+    link: https://www.researchgate.net/profile/Sara-Saad-48
 #  - icon: github
 #    icon_pack: fab
-#    link: https://github.com/YOUR-USERNAME
+#    link: #https://github.com/pablogila
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/cristina-maci%C3%A1-castell%C3%B3-122199114/
+    link: www.linkedin.com/in/sara-altaieb-ahmed-saad-507100284
 #  - icon: twitter
 #    icon_pack: fab
 #    link: https://twitter.com/YOUR-USERNAME
@@ -86,6 +92,4 @@ user_groups:
   - PhD candidates
 ---
 
-My work is on the study of cement and construction materials with neutron-based techniques (Inelastic Neutron Scattering, Neutron Diffraction, Neutron Activation Analysis).
-
-Our experiments are performed at big facilities like spallation sources (ISIS, ILL) but also making use of compact neutron sources located in different facilities (ISIS, RIKEN, IAEA) to also explore the capabilities and applications of low-flux neutron sources in the field of construction materials and cultural heritage.
+My research focuses on functional materials, particularly hydroquinone-based systems, and their applications in energy storage technologies. To gain a deeper understanding of the structure–property relationships, we utilize various spectroscopic techniques, including neutron microscopy and neutron spectroscopy.

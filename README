@@ -5,6 +5,8 @@ It is created using a [Hugo template](https://gohugo.io/), which allows us to mo
 The web is hosted on [this GitHub repository](https://github.com/qbcsm/qbcsm.github.io),
 and it is deployed automatically through GitHub Actions without having to do anything.
 
+You can also test the web locally by running the command `hugo server` and opening the link from the terminal.
+
 
 ## Adding content
 
