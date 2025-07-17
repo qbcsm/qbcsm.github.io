@@ -48,29 +48,10 @@ sections:
 
   - block: collection
     content:
-      title: Latest News
-      subtitle:
-      text:
-      count: 5
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: post
-    design:
-      view: card
-      columns: '1'
-
-  - block: collection
-    content:
       title: Recent & Upcoming Events
       subtitle:
       text:
-      count: 5
+      count: 4
       filters:
         author: ''
         category: ''
@@ -95,5 +76,24 @@ sections:
         publication_type:
     design:
       view: citation
+      columns: '1'
+
+  - block: collection
+    content:
+      title: Latest News
+      subtitle:
+      text:
+      count: 4
+      filters:
+        author: ''
+        category: ''
+        exclude_featured: false
+        publication_type: ''
+        tag: ''
+      offset: 0
+      order: desc
+      page_type: post
+    design:
+      view: card
       columns: '1'
 ---
