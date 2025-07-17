@@ -18,7 +18,7 @@ abstract: ''
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: 2025-07-06
-date_end: 2025-07-10
+date_end: 2025-07-11
 all_day: true
 
 # Schedule page publish date (NOT talk date).
@@ -54,4 +54,4 @@ slides:
 projects:
 ---
 
-We will attend the upcoming International Conference on Neutron Scattering (ICNS) in Copenhaguen, Denmark. If you are also planning to attend, please let us know!
+We attended the International Conference on Neutron Scattering (ICNS) in Copenhagen, Denmark. Pablo presented the latest research on the isotope effects of perovskite materials under high-pressure regimes. We also attended the ICNS satellite meeting, *Advanced Computer Simulation Methods for Neutron Scattering Instruments*, where we presented a poster on our recent assessment of neutron scattering techniques in compact accelerator-based neutron sources (CANS).
