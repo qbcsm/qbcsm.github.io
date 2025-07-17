@@ -54,5 +54,5 @@ slides:
 projects:
 ---
 
-It was a pleasure to attend the MDance School 2024, where I presented our latest work on the neutron characterisation and computer simulation of deuterated Hybrid Organic-Inorganic Perovskites (**HOIPs**) at high pressures.
+It was a pleasure to attend the MDanse School 2024, where I presented our latest work on the neutron characterisation and computer simulation of deuterated Hybrid Organic-Inorganic Perovskites (**HOIPs**) at high pressures.
 The school provided a valuable platform for exchanging ideas with fellow researchers and learning about the latest developments in **machine learning force fields** for molecular dynamics simulations.
