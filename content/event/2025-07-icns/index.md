@@ -4,13 +4,13 @@ title: International Conference on Neutron Scattering ICNS2025
 event: ICNS 2025
 event_url: https://www.icns2025.dk/
 
-location: European Spallation Source ESS
+location: The Bella Center & European Spallation Source ESS
 address:
   street:
-  city: Copenhaguen
+  city: Copenhaguen & Lund
   region:
   postcode: ''
-  country: Denmark
+  country: Denmark & Sweden
 
 summary: Conference
 abstract: ''
@@ -31,7 +31,7 @@ tags: []
 featured: false
 
 image:
-  caption: ''
+  caption: Pablo's talk at ICNS2025
   focal_point: Center
 
 url_code: ''
