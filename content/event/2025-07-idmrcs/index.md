@@ -31,7 +31,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Pelayo's talk at IDMRCS 2025'
+  caption: Pelayo's talk at IDMRCS 2025
   focal_point: Center
 
 url_code: ''
