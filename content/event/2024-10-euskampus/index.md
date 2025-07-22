@@ -31,7 +31,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Poster presentation of the conference'
+  caption: Poster presentation of the conference
   focal_point: Center
 
 url_code: ''
