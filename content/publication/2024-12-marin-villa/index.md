@@ -1,5 +1,5 @@
 ---
-title: Methylammonium Lead Iodide across Physical Space: Phase Boundaries and Structural Collapse
+title: 'Methylammonium Lead Iodide across Physical Space: Phase Boundaries and Structural Collapse'
 authors:
 - pelayo
 - mattia
