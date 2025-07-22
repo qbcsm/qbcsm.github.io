@@ -18,7 +18,7 @@ abstract: ''
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: 2025-05-28
-date_end: 2022-05-30
+date_end: 2025-05-30
 all_day: true
 
 # Schedule page publish date (NOT talk date).
@@ -31,7 +31,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Title page of the presentation given'
+  caption: Title page of the presentation given
   focal_point: Center
 
 url_code: ''
