@@ -27,15 +27,7 @@ publication_types: [article-journal]
 publication: American Chemical Society
 publication_short: ACS
 
-abstract: Hybrid perovskites exhibit complex structures and phase behavior under different thermodynamic conditions and chemical environments, 
-the understanding of which continues to be pivotally important for tailoring their properties toward improved operational stability. To this end, 
-we present for the first time a comprehensive neutron and synchrotron diffraction investigation over the pressure–temperature phase diagram of the 
-paradigmatic hybrid organic–inorganic perovskite methylammonium lead iodide (MAPbI3). This ambitious experimental campaign down to cryogenic 
-temperatures and tens of kilobars was supported by extensive ab initio molecular dynamics simulations validated by the experimental data, to track 
-the structural evolution of MAPbI3 under external physical stimuli at the atomic and molecular levels. These combined efforts enable us to identify 
-the mechanisms underpinning structural phase transitions, including those exhibiting negative thermal expansion across the boundary between the 
-cation-ordered low-temperature phase and the dynamically disordered high-pressure cubic phase. Our results bring to the fore how pronounced octahedral 
-distortions at high pressures ultimately drive the structural collapse and amorphization of this material.
+abstract: Hybrid perovskites exhibit complex structures and phase behavior under different thermodynamic conditions and chemical environments, the understanding of which continues to be pivotally important for tailoring their properties toward improved operational stability. To this end, we present for the first time a comprehensive neutron and synchrotron diffraction investigation over the pressure–temperature phase diagram of the paradigmatic hybrid organic–inorganic perovskite methylammonium lead iodide (MAPbI3). This ambitious experimental campaign down to cryogenic temperatures and tens of kilobars was supported by extensive ab initio molecular dynamics simulations validated by the experimental data, to track the structural evolution of MAPbI3 under external physical stimuli at the atomic and molecular levels. These combined efforts enable us to identify the mechanisms underpinning structural phase transitions, including those exhibiting negative thermal expansion across the boundary between the cation-ordered low-temperature phase and the dynamically disordered high-pressure cubic phase. Our results bring to the fore how pronounced octahedral distortions at high pressures ultimately drive the structural collapse and amorphization of this material.
 
 # Summary. An optional shortened abstract.
 summary:
