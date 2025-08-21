@@ -1,5 +1,5 @@
 ---
-title: Latest News
+title: Outreach activities
 
 # Listing view
 view: compact

@@ -15,9 +15,9 @@ appearance:
 
 marketing:
   seo:
-    site_type: Organization
-    local_business_type: ''
-    org_name: ''
+    site_type: Research group
+    local_business_type: 'Centro de Física de Materiales'
+    org_name: 'Quantum Beams and Computation for Sustainable Materials'
     description: 'Quantum Beams and Computation for Sustainable Materials research group at the Materials Physics Center.'
     twitter: ''
   analytics:

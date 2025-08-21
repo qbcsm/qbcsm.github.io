@@ -80,7 +80,7 @@ sections:
 
   - block: collection
     content:
-      title: Latest News
+      title: Outreach activities
       subtitle:
       text:
       count: 4
@@ -92,7 +92,7 @@ sections:
         tag: ''
       offset: 0
       order: desc
-      page_type: post
+      page_type: outreach
     design:
       view: card
       columns: '1'

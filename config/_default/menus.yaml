@@ -16,8 +16,8 @@ main:
   - name: Publications
     url: publication
     weight: 40
-  - name: Blog
-    url: post
+  - name: Outreach
+    url: outreach
     weight: 50
   - name: Contact
     url: contact

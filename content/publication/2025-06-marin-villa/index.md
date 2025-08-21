@@ -1,10 +1,10 @@
 ---
-title: 'Methylammonium Lead Iodide across Physical Space: Phase Boundaries and Structural Collapse'
+title: 'Molecular Derailment via Pressurization in Methylammonium Lead Iodide'
 authors:
 - pelayo
-- mattia
-- Boby Joseph
-- Frederico Alabarse
+- pablo
+- Monica Jimenez-Ruiz
+- Alexandre Ivanov
 - Jeff Armstrong
 - kacper
 - felix
@@ -12,22 +12,22 @@ authors:
 #- Equal contribution
 #- whatever
 #- Equal contribution
-date: 2024-12-23
-doi: https://doi.org/10.1021/acs.jpclett.4c03336
+date: 2025-07-13
+doi: https://doi.org/10.26434/chemrxiv-2025-jd7bj
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2024-12-23
+publishDate: 2025-07-13
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: [article-journal]
+publication_types: [article]
 
 # Publication name and optional abbreviated publication name.
-publication: American Chemical Society
-publication_short: J. Phys. Chem. Lett. 2025, 16, 1, 184–190
+publication: ChemRxiv Materials Chemistry
+publication_short: ChemRxiv. 2025; doi:10.26434/chemrxiv-2025-jd7bj
 
-abstract: Hybrid perovskites exhibit complex structures and phase behavior under different thermodynamic conditions and chemical environments, the understanding of which continues to be pivotally important for tailoring their properties toward improved operational stability. To this end, we present for the first time a comprehensive neutron and synchrotron diffraction investigation over the pressure–temperature phase diagram of the paradigmatic hybrid organic–inorganic perovskite methylammonium lead iodide (MAPbI3). This ambitious experimental campaign down to cryogenic temperatures and tens of kilobars was supported by extensive ab initio molecular dynamics simulations validated by the experimental data, to track the structural evolution of MAPbI3 under external physical stimuli at the atomic and molecular levels. These combined efforts enable us to identify the mechanisms underpinning structural phase transitions, including those exhibiting negative thermal expansion across the boundary between the cation-ordered low-temperature phase and the dynamically disordered high-pressure cubic phase. Our results bring to the fore how pronounced octahedral distortions at high pressures ultimately drive the structural collapse and amorphization of this material.
+abstract: Hybrid organic–inorganic perovskites combine outstanding optoelectronic properties with low‐cost fabrication, yet their structural fragility under environmental factors limits device stability. In this work, we have employed high-resolution inelastic neutron scattering in the GPa regime alongside first‐principles calculations to probe the pressure‐temperature phase behavior of methylammonium lead iodide MAPbI3. Below 1 GPa, we observe a systematic stiffening of NH...I hydrogen bonds concomitant with a contraction of the inorganic framework. Between 1 and 1.25 GPa, the INS data exhibit a pronounced broadening of cation librational features, corresponding to a transition to highly disordered organic-cation environments reminiscent of (the maximally tilted) high-pressure cubic phase. This hitherto unexplored 'derailed' state of MAPbI3 is characterized by a broad distribution of NH...I bond lengths, in stark contrast with the well‐defined hydrogen‐bond network of the low‐temperature phase observed at lower pressures. Our experimental and computational results bring to the fore the central (and rather subtle) role played by NH...I hydrogen bonds across organic and inorganic sub-lattices in dictating the regions of physical stability and metastability of this important material.
 
 # Summary. An optional shortened abstract.
 summary:
@@ -35,12 +35,14 @@ summary:
 tags:
 - DFT
 - perovskites
+- high-pressure
+- neutron scattering
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://pubs.acs.org/doi/pdf/10.1021/acs.jpclett.4c03336?ref=article_openPDF
+url_pdf: https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/684982343ba0887c3393668e/original/molecular-derailment-via-pressurization-in-methylammonium-lead-iodide.pdf
 #url_code: ''
 #url_dataset: ''
 #url_poster: ''

@@ -12,12 +12,12 @@ You can also test the web locally by running the command `hugo server` and openi
 
 The content that we should update regularly is located in the `content/` directory. The folders that we should modify are:
 - `authors/`. Here we add new people to the group.
-- `event/`. New events, conferences, etc.
-- `publication/`. Links to our new papers.
-- `post/`. Blog posts, latest news, etc. Everyone can share their thoughts here!
+- `events/`. New events, conferences, etc.
+- `publications/`. Links to our new papers & preprints.
+- `outreach/`. Short description of your outreach activities: who, when, where.
 
 These folders contain several subfolders, each of which corresponds to a specific page.
-For example, the folder called 'event' has a subfolder called '2024-09-setn' with an 'index.md' and an image called 'featured.jpg'.
+For example, the folder called 'events' has a subfolder called '2024-09-setn' with an 'index.md' and an image called 'featured.jpg'.
 You can add new events by copying an old one and changing the content. The same goes for the other folders.
 
 You can add new images in [markdown format](https://www.markdownguide.org/basic-syntax/) with whatever name you want, but the main picture for all posts, events and publications must be named `featured.jpg` (or png, whatever).
