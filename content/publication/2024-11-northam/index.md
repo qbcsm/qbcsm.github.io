@@ -5,8 +5,8 @@ authors:
 - irene
 - kalith
 - mattia
-- V. Di Lisio
-- D. Cangialosi
+- Valerio Di Lisio
+- Daniele Cangialosi
 - pedro
 - A. Otero-de-la-Roza
 - felix
