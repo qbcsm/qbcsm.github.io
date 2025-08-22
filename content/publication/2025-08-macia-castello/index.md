@@ -28,7 +28,7 @@ publication_types: [article]
 
 # Publication name and optional abbreviated publication name.
 publication: Canadian Journal of Physics
-publication_short: doi:10.1139/cjp-2025-0085
+publication_short: Canadian Journal of Physics 2025, doi:10.1139/cjp-2025-0085
 
 abstract: Herein, we have used so-called Compact Accelerator-driven Neutron Systems (CANS) to explore the properties and performance of composite cement foams for thermal-energy storage. To this end, energy-resolved neutron imaging and tomography were implemented on RIKEN RANS-I, and these data were complemented by thermal conductivity measurements. The ability to pulse this CANS down to tens of microseconds enables data collection across the available neutron energy spectrum for different foam formulations. With relatively modest L/D ratios of ~35, it is possible to attain a spatial resolution in the millimeter range, and useful images can be collected in as little time as three minutes. Volume reconstruction was performed via angular scans from 0° to 180 in 10° steps, corresponding to a total of nineteen images collected over a period of less than an hour. Key to the above has been the deployment of recently developed algorithms and techniques for the analysis of sparse data. On the basis of these results, the existing capabilities of RIKEN RANS-I and similar CANS provide us with new, non-intrusive, and quantitative measures of key performance parameters, including the degree of porosity over relevant length scales typical in these construction materials. In combination with thermal-conductivity data, these results also enable an assessment of insulating performance, with a view to its further optimization.
 

@@ -1,22 +1,21 @@
 ---
-title: 'Molecular Derailment via Pressurization in Methylammonium Lead Iodide'
+title: "Curvature-induced vitrification & polymorphism in corannulene, the simplest geodesic polyarene"
 authors:
-- pelayo
-- pablo
-- Monica Jimenez-Ruiz
-- Alexandre Ivanov
-- Jeff Armstrong
-- kacper
+- mattia
+- Valerio Di Lisio
+- balthasar
+- Jay Siegel
+- Daniele Cangialosi
 - felix
 #author_notes:
 #- Equal contribution
 #- whatever
 #- Equal contribution
-date: 2025-07-13
-doi: https://doi.org/10.26434/chemrxiv-2025-jd7bj
+date: 2025-08-12
+doi: https://doi.org/10.26434/chemrxiv-2025-gdq9l
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2025-06-13
+publishDate: 2025-07-13
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -24,10 +23,10 @@ publishDate: 2025-06-13
 publication_types: [article]
 
 # Publication name and optional abbreviated publication name.
-publication: ChemRxiv Materials Chemistry
-publication_short: ChemRxiv. 2025; doi:10.26434/chemrxiv-2025-jd7bj
+publication: ChemRxiv Physical Chemistry
+publication_short: ChemRxiv. 2025; doi:10.26434/chemrxiv-2025-gdq9l
 
-abstract: Hybrid organic–inorganic perovskites combine outstanding optoelectronic properties with low‐cost fabrication, yet their structural fragility under environmental factors limits device stability. In this work, we have employed high-resolution inelastic neutron scattering in the GPa regime alongside first‐principles calculations to probe the pressure‐temperature phase behavior of methylammonium lead iodide MAPbI3. Below 1 GPa, we observe a systematic stiffening of NH...I hydrogen bonds concomitant with a contraction of the inorganic framework. Between 1 and 1.25 GPa, the INS data exhibit a pronounced broadening of cation librational features, corresponding to a transition to highly disordered organic-cation environments reminiscent of (the maximally tilted) high-pressure cubic phase. This hitherto unexplored 'derailed' state of MAPbI3 is characterized by a broad distribution of NH...I bond lengths, in stark contrast with the well‐defined hydrogen‐bond network of the low‐temperature phase observed at lower pressures. Our experimental and computational results bring to the fore the central (and rather subtle) role played by NH...I hydrogen bonds across organic and inorganic sub-lattices in dictating the regions of physical stability and metastability of this important material.
+abstract: Fast scanning calorimetry and single-crystal synchrotron diffraction have been used to explore the regimes of stability and metastability of the curved bucky-bowl corannulene. Unlike their flat counterparts, cooling rates above 500 K/s from the melt are effective at preventing crystallisation, leading to a glassy state below ambient conditions. Upon heating from the glass, we observe a series of three sharp thermal events at ca. 380, 430, and 500 K associated with hitherto unknown polymorphs of this carbon-based solid. The single-crystal diffraction data provide a framework to understand this rich phenomenology in terms of the activation of well-defined molecular rotations that increase the occupancy of interstitial sites and trigger a sharp decrease in density near the observed glass-transition temperature. These changes are also accompanied by abnormally high atomic displacement parameters as the temperature where the first (and strongest) cold-crystallisation event is observed. The diffraction data also provide strong evidence that solid CA ought to be regarded as two distinctly different materials below and above the aforementioned glass-transition temperature. Altogether, our findings bring to the fore the unanticipated complexity underpinning the structure and thermodynamic response of solid corannulene, the simplest geodesic polyarene.
 
 # Summary. An optional shortened abstract.
 summary:
@@ -35,14 +34,15 @@ summary:
 tags:
 - DFT
 - perovskites
-- high-pressure
+- calorimetry
+- flash DSC
 - neutron scattering
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/684982343ba0887c3393668e/original/molecular-derailment-via-pressurization-in-methylammonium-lead-iodide.pdf
+#url_pdf:
 #url_code: ''
 #url_dataset: ''
 #url_poster: ''
