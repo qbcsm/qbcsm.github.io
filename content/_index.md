@@ -41,8 +41,10 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./tour/" cta_text="Get the tour →" %}}
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+        <div style="display: flex; gap: 1rem; flex-wrap: wrap; justify-content: center;">
+          {{< cta cta_link="./tour/" cta_text="Get the tour" >}}
+          {{< cta cta_link="./people/" cta_text="Meet the team" >}}
+        </div>
     design:
       columns: '1'
 
