@@ -53,7 +53,7 @@ sections:
       title: Recent & Upcoming Events
       subtitle:
       text:
-      count: 4
+      count: 6
       filters:
         author: ''
         category: ''
@@ -71,31 +71,12 @@ sections:
     content:
       title: Latest Publications
       text: ""
-      count: 5
+      count: 10
       filters:
         folders:
           - publication
         publication_type:
     design:
       view: citation
-      columns: '1'
-
-  - block: collection
-    content:
-      title: Outreach activities
-      subtitle:
-      text:
-      count: 4
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: outreach
-    design:
-      view: card
       columns: '1'
 ---

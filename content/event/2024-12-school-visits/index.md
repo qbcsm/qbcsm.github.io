@@ -2,6 +2,7 @@
 title: DIPC's and CFM's School Visits
 date: 2024-12-04
 authors: [pelayo]
+tags: [outreach]
 ---
 
 This activity was organized by the Materials Physics Center's outreach department for high school students from Tolosa.

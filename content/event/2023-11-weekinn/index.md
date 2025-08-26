@@ -2,6 +2,7 @@
 title: WeekINN 2023
 date: 2023-11-30
 authors: [irene]
+tags: [outreach]
 ---
 
 Outreach presentation at the WeekINN 2023, on "Materiales de 

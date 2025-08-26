@@ -12,7 +12,7 @@ address:
   postcode: ''
   country: Denmark & Sweden
 
-summary: Conference
+summary: ''
 abstract: ''
 
 # Talk start and end times.
@@ -25,7 +25,7 @@ all_day: true
 publishDate: 2025-05-19
 
 authors: [pablo]
-tags: []
+tags: [conference]
 
 # Is this a featured talk? (true/false)
 featured: false

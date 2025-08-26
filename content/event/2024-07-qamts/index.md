@@ -12,7 +12,7 @@ address:
   postcode: ''
   country: Spain
 
-summary: Conference
+summary: 
 # Abstract (just if you feel like including it)
 abstract: ''
 
@@ -31,7 +31,7 @@ publishDate: 2024-07-21
 authors: [cristina, pelayo]
 
 # Optional tags to facilitate the search
-tags: []
+tags: [conference]
 
 # Is this a featured talk? (true/false)
 featured: false

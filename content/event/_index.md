@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Events
+title: Events & Outreach
 
 # Listing view
 view: compact
@@ -9,3 +9,4 @@ banner:
   caption: ''
   image: ''
 ---
+

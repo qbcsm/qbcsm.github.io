@@ -12,7 +12,7 @@ address:
   postcode: ''
   country: Spain
 
-summary: Conference
+summary: 
 abstract: ''
 
 # Talk start and end times.
@@ -25,7 +25,7 @@ all_day: true
 publishDate: 2025-05-30T00:00:00Z
 
 authors: [tom]
-tags: []
+tags: [conference]
 
 # Is this a featured talk? (true/false)
 featured: false

@@ -2,6 +2,7 @@
 title: Emakumeak Zientzian talk on Amaraberri primary school
 date: 2025-02-18
 authors: [irene]
+tags: [outreach]
 ---
 
 

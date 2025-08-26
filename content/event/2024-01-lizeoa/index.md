@@ -2,6 +2,7 @@
 title: Workshop on materials for the Innovation Week
 date: 2024-01-01
 authors: [irene]
+tags: [outreach]
 ---
 
 Together with other CFM and DIPC scientists, Irene did an outreach 

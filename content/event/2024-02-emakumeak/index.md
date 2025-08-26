@@ -2,6 +2,7 @@
 title: Emakumeak Zientzian workshop
 date: 2024-02-16
 authors: [cristina]
+tags: [outreach]
 ---
 
 Cristina participated in the workshop ["The power of experience"](https://emakumeakzientzian.eus/es/ekitaldiak/esperientziaren-boterea-cfm/),

@@ -2,6 +2,7 @@
 title: Zientzia Azoka Winners Prize Visit
 date: 2024-07-24
 authors: [pablo]
+tags: [outreach]
 ---
 
 We took part in the visit of the “Zientzia Azoka Winners prize” organized by CFM,

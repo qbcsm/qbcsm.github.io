@@ -12,7 +12,7 @@ address:
   postcode: ''
   country: Spain
 
-summary: Symposium
+summary: 
 abstract: ''
 
 # Talk start and end times.
@@ -25,7 +25,7 @@ all_day: true
 publishDate: 2024-09-19T00:00:00Z
 
 authors: [irene]
-tags: []
+tags: [conference]
 
 # Is this a featured talk? (true/false)
 featured: false

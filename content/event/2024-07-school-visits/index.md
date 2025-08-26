@@ -2,6 +2,7 @@
 title: DIPC's and CFM's School Visits
 date: 2024-07-24
 authors: [pablo]
+tags: [outreach]
 ---
 
 Pablo participated in the DIPC’s and CFM’s School Visits Program during 2023-2024 school year.

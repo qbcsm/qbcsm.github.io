@@ -12,7 +12,7 @@ address:
   postcode: ''
   country: France
 
-summary: Conference
+summary: 
 abstract: ''
 
 # Talk start and end times.
@@ -25,7 +25,7 @@ all_day: true
 publishDate: 2024-10-15T00:00:00Z
 
 authors: [tom]
-tags: []
+tags: [conference, outreach]
 
 # Is this a featured talk? (true/false)
 featured: false

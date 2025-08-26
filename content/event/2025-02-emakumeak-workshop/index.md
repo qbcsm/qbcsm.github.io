@@ -2,6 +2,7 @@
 title: Emakumeak Zientzian workshop
 date: 2025-02-11
 authors: [irene]
+tags: [outreach]
 ---
 
 We participated in a workshop dedicated to women over 55,

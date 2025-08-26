@@ -2,6 +2,7 @@
 title: Science Week fair
 date: 2023-11-30
 authors: [balthasar]
+tags: [outreach]
 ---
 
 Scientific fair aimed at kids demonstrating natural phenomena using simple tools and common items.
