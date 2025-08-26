@@ -65,7 +65,7 @@ sections:
           image:
             filename: simulations.jpg
             filters:
-              brightness: 0.5
+              brightness: 0.4
           position: center
           color: '#555'
       - title: Multidisciplinary team
