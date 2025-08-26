@@ -38,7 +38,7 @@ sections:
               brightness: 0.5
           position: center
           color: '#555'
-      - title: Materials for the energy transition
+      - title: Energy transition
         content: "Our research covers the new materials required for a clean energy transition, from energy storage to perovskite photovoltaic cells"
         align: right
         background:
@@ -48,8 +48,8 @@ sections:
               brightness: 0.5
           position: center
           color: '#555'
-      - title: Analysis and characterization
-        content: "A range of techniques, from optical spectral analysis to flash calorimetry, allow us to expand our knowledge of new exciting materials"
+      - title: Material exploration
+        content: "A wide range of techniques, from Raman spectroscopy and imaging to ultrafast calorimetry, allow us to expand our knowledge of new exciting materials"
         align: left
         background:
           image:
@@ -59,7 +59,7 @@ sections:
           position: center
           color: '#555'
       - title: High-Performance Computing
-        content: "*In-silicon* models help us understand the fundamental interactions defining the nature of our samples"
+        content: "*In-silico* models help us understand the fundamental interactions defining the nature of our samples"
         align: center
         background:
           image:
