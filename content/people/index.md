@@ -13,11 +13,11 @@ sections:
       user_groups:
           - Principal Investigators
           - Postdocs
-          - Technicians
+          - R&D Engineers
           - PhD candidates
           - Master students
           - Visitors
-          - Previous members and collaborators
+          - Collaborators
       sort_by: Params.last_name
       sort_ascending: true
     design:

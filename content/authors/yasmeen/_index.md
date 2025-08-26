@@ -77,7 +77,7 @@ email: ''
 # Available user_groups are defined at /content/people/index.html
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Previous members and collaborators
+  - Collaborators
 ---
 
 My research focuses on fabricating innovative conducting or thermosensitive polymers and combining them with various materials, such as carbon materials, quantum dots, and devices like sensors and supercapacitors.

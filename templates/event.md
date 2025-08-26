@@ -3,7 +3,7 @@
 title:               #*
 authors: []          #* Who? in lowercase, e.g. [pablo]
 tags: []             #* outreach OR conference
-date: YYYY-MM-DD     #*
+date:                #* YYYY-MM-DD
 date_end:            #
 location:            #  Recommended for conferences
 event:               #  Short name, e.g. ICNS2025

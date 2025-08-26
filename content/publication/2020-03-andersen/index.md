@@ -1,0 +1,193 @@
+---
+#* Required
+title: "The instrument suite of the European Spallation Source"                             #*
+authors:                              #* Just first name in lowercase for those from our group
+- K.H. Andersen
+- D.N Argyriou
+- A.J. Jackson
+- Houston
+- P.F. Henry
+- P.P. Deen
+- R. Toft-Petersen
+- P. Beran
+- M. Strobl
+- T. Arnold
+- H. Wacklin-Knecht
+- N. Tsapatsaris
+- E. Oksanen 
+- R. Woracek
+- W. Schweika
+- D. Mannix
+- A. Hiess
+- S. Kennedy
+- O. Kirstein
+- S. Petersson Årsköld
+- J. Taylor
+- M.E. Hagen
+- G. Laszlo
+- K. Kanaki
+- F. Piscitelli
+- A. Khaplanov
+- I. Stefanescu
+- Th. Kittelmann
+- D. Pfeiffer
+- R. Hall-Wilton
+- C.I. Lopez
+- G. Aprigliano
+- L. Whitelegg
+- F.Y. Moreira
+- M. Olsson
+- H.N. Bordallo
+- D. Martín-Rodríguez
+- H. Schneider
+- M. Sharp
+- M. Hartl
+- G. Nagy
+- S. Ansell
+- S. Pullen
+- A. Vickery
+- A. Fedrigo
+- F. Mezei
+- M. Arai
+- R.K. Heenan
+- W. Halcrow
+- D. Turner
+- D. Raspino
+- A. Orszulik
+- J. Cooper
+- N. Webb
+- P. Galsworthy
+- J. Nightingale
+- S. Langridge
+- J. Elmer
+- H. Frielinghaus
+- R. Hanslik
+- A. Gussen
+- S. Jaksch
+- R. Engels
+- T. Kozielewski
+- S. Butterweck
+- M. Feygenson
+- P. Harbott
+- A. Poqué
+- A. Schwaab
+- K. Lieutenant
+- N. Violini
+- J. Voigt
+- T. Brückel
+- M. Koenen
+- H. Kämmerling
+- E. Babcock
+- Z. Salhi
+- A. Wischnewski
+- A. Heynen
+- S. Désert
+- J. Jestin
+- F. Porcher
+- X. Fabrèges
+- G. Fabrèges
+- B. Annighöfer
+- S. Klimko
+- Th. Dupont
+- Th. Robillard
+- A. Goukassov
+- S. Longeville
+- Ch. Alba-Simionesco
+- Ph. Bourges
+- Guyon Le Bouffy
+- P. Lavie
+- S. Rodrigues
+- E. Calzada
+- M. Lerche
+- B. Schillinger
+- Ph. Schmakat
+- M. Schulz
+- M. Seifert
+- W. Lohstroh
+- W. Petry
+- J. Neuhaus
+- L. Loaiza
+- A. Tartaglione
+- A. Glavic
+- S. Schütz
+- J. Stahn
+- E. Lehmann
+- M. Morgano
+- J. Schefer
+- U. Filges
+- Ch. Klauser
+- Ch. Niedermayer
+- J. Fenske
+- G. Nowak
+- M. Rouijaa
+- D.J. Siemers
+- R. Kiehn
+- M. Müller
+- H. Carlsen
+- L. Udby
+- K. Lefmann
+- J.O. Birk
+- S. Holm-Dahlin
+- M. Bertelsen
+- U. Bengaard Hansen
+- M.A. Olsen
+- M. Christensen
+- K. Iversen
+- N.B. Christensen
+- H.M. Rønnow
+- P.G. Freeman
+- B.C. Hauback
+- R. Kolevatov
+- I. Llamas-Jansa
+- A. Orecchini
+- F. Sacchetti
+- C. Petrillo
+- A. Paciaroni
+- P. Tozzi
+- Zanatta
+- P. Luna
+- I. Herranz
+- O.G. del Moral
+- M. Huerta
+- M. Magán
+- M. Mosconi
+- E. Abad
+- J. Aguilar
+- S. Stepanyan
+- G. Bakedano
+- R. Vivanco
+- I. Bustinduy
+- F. Sordo
+- J.L. Martínez
+- R.E. Lechner
+- F.J. Villacorta
+- J. Šaroun
+- P. Lukáš
+- M. Markó
+- M. Zanetti
+- S. Bellissima
+- L. del Rosso
+- F. Masi
+- C. Bovo
+- M. Chowdhury
+- A. De Bonis
+- L. Di Fresco
+- C. Scatigno
+- S.F. Parker
+- felix
+- D. Colognesi
+- R. Senesi
+- C. Andreani
+- G. Gorini
+- G. Scionti
+- A. Schreyer
+date: 2020-03-21                                #* YYYY-MM-DD
+doi: https://doi.org/10.1016/j.nima.2020.163402                                 #* https://doi.org/...
+publication: Nuclear Inst. and Methods in Physics Research, A 957 (2020) 163402                         #  e.g., J. Phys. Chem. Lett. 2025, 16, 1, 184–190.
+publication_types: [article-journal]  #* article-journal OR article (Preprint)
+url_pdf:                              #  Link to the PDF: https://...
+tags: []                              #  e.g. DFT, perovskites, CANS...
+abstract: "An overview is provided of the 15 neutron beam instruments making up the initial instrument suite of the European Spallation Source (ESS), and being made available to the neutron user community. The ESS neutron source consists of a high-power accelerator and target station, providing a unique long-pulse time structure of slow neutrons. The design considerations behind the time structure, moderator geometry and instrument layout are presented.\nThe 15-instrument suite consists of two small-angle instruments, two reflectometers, an imaging beamline, two single-crystal diffractometers; one for macromolecular crystallography and one for magnetism, two powder diffractometers, and an engineering diffractometer, as well as an array of five inelastic instruments comprising two chopper spectrometers, an inverse-geometry single-crystal excitations spectrometer, an instrument for vibrational spectroscopy and a high-resolution backscattering spectrometer. The conceptual design, performance and scientific drivers of each of these instruments are described.\nAll of the instruments are designed to provide breakthrough new scientific capability, not currently available at existing facilities, building on the inherent strengths of the ESS long-pulse neutron source of high flux, flexible resolution and large bandwidth. Each of them is predicted to provide world-leading performance at an accelerator power of 2 MW. This technical capability translates into a very broad range of scientific capabilities. The composition of the instrument suite has been chosen to maximise the breadth and depth of the scientific impact of the early years of the ESS, and provide a solid base for completion and further expansion of the facility."                          #* Copy of the abstract
+# You can include optional text below the --- line
+---
+
