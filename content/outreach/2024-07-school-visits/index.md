@@ -4,7 +4,7 @@ date: 2024-07-24
 authors: [pablo]
 ---
 
-We participated in the DIPC’s and CFM’s School Visits Program during 2023-2024 school year.
+Pablo participated in the DIPC’s and CFM’s School Visits Program during 2023-2024 school year.
 More than 900 students from 35 schools joined this activity in this period.
 Visits were offered in face-to-face and streaming format,
 allowing the students to directly interact with researchers in each session.
