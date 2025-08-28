@@ -1,37 +1,36 @@
 ---
 # Display name
-title: Rita Omamuyovwi Akemu
+title: Matthias Gutmann
 
 # Full name (for SEO)
-first_name: Rita
-last_name: Omamuyovwi Akemu
+first_name: Matthias
+last_name: Gutmann
 
 # Username (this should match the folder name)
 authors:
-  - rita
-
+  - gutmann
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Visitor
+role: Visitor from ISIS Neutron and Muon Facility, UK.
 
 # Organizations/Affiliations
-#organizations:
-#  - name: Materials Physics Center (CFM-MPC), CSIC-UPV/EHU, Donostia - San Sebastián
-#    url: ''
+organizations:
+  - name: ISIS Neutron and Muon Facility, Rutherford Appleton Laboratory, Didcot OX11 0QX, U.K.
+    url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Visitor
+bio: PVisitor from ISIS Neutron and Muon Facility, UK.
 
-#interests:
-#  - Neutron science
-#  - X-ray science
+interests:
+  - Diffuse scattering
+  - Development of new techniques
 
 #education:
 #  courses:
-#    - course: PhD in Physics
-#      institution: École Polytechnique Fédérale de Lausanne (EPFL)
+#    - course: PhD in Organic Chemistry
+#      institution: Faculty of science Alexandria University
 #      year: 2012
 
 # Social/Academic Networking
@@ -39,24 +38,24 @@ bio: Visitor
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-#  - icon: envelope
-#    icon_pack: fas
-#    link: 'mailto:umbertoluca.ranieri@ehu.eus'
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:matthias.gutmann@stfc.ac.uk
 #  - icon: orcid
 #    icon_pack: fab
-#    link: https://orcid.org/0000-0003-2026-6132
-  - icon: google-scholar
-    icon_pack: fab
-    link: https://scholar.google.com/citations?hl=en&user=9hRW_acAAAAJ
-#  - icon: researchgate
+#    link: https://YOUR-ORCID-ID
+#  - icon: google-scholar
 #    icon_pack: fab
-#    link: https://www.researchgate.net/profile/YOUR-PROFILE-URL
+#    link: https://scholar.google.com/YOUR-PROFILE-URL
+  - icon: researchgate
+    icon_pack: fab
+    link: https://www.researchgate.net/profile/Matthias-Gutmann
 #  - icon: github
 #    icon_pack: fab
 #    link: https://github.com/YOUR-USERNAME
 #  - icon: linkedin
 #    icon_pack: fab
-#    link: https://www.linkedin.com/in/umbertoluca-ranieri/
+#    link: http://linkedin.com/in/YOUR-PROFILE-URL
 #  - icon: twitter
 #    icon_pack: fab
 #    link: https://twitter.com/YOUR-USERNAME
@@ -79,5 +78,4 @@ email: ''
 user_groups:
   - Visitors
 ---
-
 

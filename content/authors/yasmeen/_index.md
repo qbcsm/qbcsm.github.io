@@ -24,9 +24,9 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Postdoc at the Materials Physics Center, Donostia.
 
-#interests:
-#  - Neutron science
-#  - Perovskite materials
+interests:
+  - Water treatment
+  - Sensors and supercapacitors
 
 education:
   courses:
@@ -38,16 +38,16 @@ education:
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-#social:
+social:
 #  - icon: envelope
 #    icon_pack: fas
 #    link: mailto:YOUR@EMAIL
 #  - icon: orcid
 #    icon_pack: fab
 #    link: https://YOUR-ORCID-ID
-#  - icon: google-scholar
-#    icon_pack: fab
-#    link: https://scholar.google.com/YOUR-PROFILE-URL
+  - icon: google-scholar
+    icon_pack: fab
+    link: https://scholar.google.com/citations?hl=en&user=jQBBgW0AAAAJ
 #  - icon: researchgate
 #    icon_pack: fab
 #    link: https://www.researchgate.net/profile/YOUR-PROFILE-URL
@@ -77,7 +77,7 @@ email: ''
 # Available user_groups are defined at /content/people/index.html
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Collaborators
+  - Visitors
 ---
 
 My research focuses on fabricating innovative conducting or thermosensitive polymers and combining them with various materials, such as carbon materials, quantum dots, and devices like sensors and supercapacitors.
