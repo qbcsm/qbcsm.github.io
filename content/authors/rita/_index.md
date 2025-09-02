@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Visitor
+role: Visitor through Women for Africa program
 
 # Organizations/Affiliations
 #organizations:
@@ -22,7 +22,7 @@ role: Visitor
 #    url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Visitor
+bio: Visitor through Women for Africa program
 
 #interests:
 #  - Neutron science
