@@ -77,7 +77,7 @@ email: ''
 # Available user_groups are defined at /content/people/index.html
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Postdocs
+  - Collaborators
 ---
 
 Postdoctoral researcher with expertise in both experimental and computational chemistry, strongly interested in studying photoswitches thermodynamics for energy storage purposes.
