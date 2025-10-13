@@ -79,7 +79,7 @@ sections:
           position: center
           color: '#555'
       - title: Want to know more?
-        content: "Check our [latest works](../publication/) and see what's new [on our blog](../post/)"
+        content: "Check our [latest works](../publication/)"
         align: right
         background:
           image:
