@@ -1,37 +1,37 @@
 ---
 # Display name
-title: Rita Omamuyovwi Akemu
+title: Irene Vettori
 
 # Full name (for SEO)
-first_name: Rita
-last_name: Omamuyovwi Akemu
+first_name: Irene
+last_name: Vettori
 
 # Username (this should match the folder name)
 authors:
-  - rita
+  - irene
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Visitor
+role: Post doctoral researcher
 
 # Organizations/Affiliations
-#organizations:
-#  - name: Materials Physics Center (CFM-MPC), CSIC-UPV/EHU, Donostia - San Sebastián
-#    url: ''
+organizations:
+  - name: Materials Physics Center (CFM-MPC), CSIC-UPV/EHU, Donostia - San Sebastián
+    url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Visitor
+bio: Postdoc at the Materials Physics Center, Donostia.
 
-#interests:
-#  - Neutron science
-#  - X-ray science
+interests:
+  - Neutron science
+  - Energy storage materials
 
 #education:
 #  courses:
-#    - course: PhD in Physics
-#      institution: École Polytechnique Fédérale de Lausanne (EPFL)
+#    - course: PhD in Artificial Intelligence
+#      institution: Stanford University
 #      year: 2012
 
 # Social/Academic Networking
@@ -39,24 +39,24 @@ bio: Visitor
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-#  - icon: envelope
-#    icon_pack: fas
-#    link: 'mailto:umbertoluca.ranieri@ehu.eus'
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:irene.vettori@ehu.eus'
 #  - icon: orcid
 #    icon_pack: fab
-#    link: https://orcid.org/0000-0003-2026-6132
+#    link: https://YOUR-ORCID-ID
   - icon: google-scholar
     icon_pack: fab
-    link: https://scholar.google.com/citations?hl=en&user=9hRW_acAAAAJ
-#  - icon: researchgate
-#    icon_pack: fab
-#    link: https://www.researchgate.net/profile/YOUR-PROFILE-URL
+    link: https://scholar.google.co.uk/citations?hl=en&user=3WQ6Tn8AAAAJ
+  - icon: researchgate
+    icon_pack: fab
+    link: https://www.researchgate.net/profile/Irene-Vettori
 #  - icon: github
 #    icon_pack: fab
 #    link: https://github.com/YOUR-USERNAME
-#  - icon: linkedin
-#    icon_pack: fab
-#    link: https://www.linkedin.com/in/umbertoluca-ranieri/
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/irene-vettori-3a910a278/
 #  - icon: twitter
 #    icon_pack: fab
 #    link: https://twitter.com/YOUR-USERNAME
@@ -77,7 +77,7 @@ email: ''
 # Available user_groups are defined at /content/people/index.html
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Visitors
+  - Former members
 ---
 
-
+Postdoctoral researcher with expertise in both experimental and computational chemistry, strongly interested in studying photoswitches thermodynamics for energy storage purposes.
