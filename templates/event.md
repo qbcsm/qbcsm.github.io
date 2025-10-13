@@ -2,7 +2,7 @@
 #* Required
 title:               #*
 authors: []          #* Who? in lowercase, e.g. [pablo]
-tags: []             #* outreach OR conference
+tags: []             #* outreach OR conference OR blog
 date:                #* YYYY-MM-DD
 date_end:            #
 location:            #  Recommended for conferences

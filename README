@@ -10,19 +10,22 @@ You can also test the web locally by running the command `hugo server` and openi
 
 ## Adding content
 
-The content that we should update regularly is located in the `content/` directory. The folders that we should modify are:
-- `authors/`. Here we add new people to the group.
-- `events/`. New events, conferences, outreach workshops, etc.
-- `publications/`. Links to our new papers & preprints.
+The templates for new content can be found in the `templates/` directory.
+The content that we should update regularly is located in the `content/` directory.
+The subfolders that we should modify are:
+- `authors/`. Here we add new people to the group. The template file should be renamed to `_index.md`.
+- `events/`. New events, conferences, outreach workshops, etc. The template file should be renamed to `index.md`.
+- `publications/`. Links to our new papers & preprints. The template file should be renamed to `index.md`.
 
 These folders contain several subfolders, each of which corresponds to a specific page.
 For example, the folder called 'events' has a subfolder called '2024-09-setn' with an 'index.md' and an image called 'featured.jpg'.
-You can add new events by copying an old one and changing the content. The same goes for the other folders.
-Take a look at the event and pubication templates from the templates folder.
+You can add new events by creating a new folder with a renamed template file.
+You could just copy and edit a previous folder, but that might be messy.
+The same goes for the other folders.
 
 You can add new images in [markdown format](https://www.markdownguide.org/basic-syntax/) with whatever name you want, but the main picture for all posts, events and publications must be named `featured.jpg` (or png, whatever).
 The only exception to this are profile pictures in the 'authors' subfolders, which are named `avatar.jpg`.
-And just in case we can't find a pic for our new beloved comrade, I left an empty image file called 'avatar_empty.jpg'.
+And just in case we can't find a pic for our new beloved comrade, I left an empty 'avatar.jpg' in the templates folder.
 
 To keep things simple, it's best to name these subfolders using the date and name, like `YYYY-MM-name`, so we can keep the house tidy.
 The 'authors' subfolders are different, and these should be our own names in lowercase.

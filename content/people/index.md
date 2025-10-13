@@ -17,7 +17,7 @@ sections:
           - PhD candidates
           - Master students
           - Visitors
-          - Collaborators
+          - Former members
       sort_by: Params.last_name
       sort_ascending: true
     design:

@@ -1,7 +1,7 @@
 ---
 #* Required
 title: ""                             #*
-authors:                              #* Just first name in lowercase for those from our group
+authors:                              #* Just first name in lowercase for those from our group!
 - Yoshie Otake
 - felix
 date:                                 #* YYYY-MM-DD
