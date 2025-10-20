@@ -1,7 +1,7 @@
 ---
 title: Science Week fair
 date: 2024-11-08
-authors: [balthasar, tom]
+authors: [tom]
 tags: [outreach]
 ---
 
