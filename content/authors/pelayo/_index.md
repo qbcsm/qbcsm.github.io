@@ -79,7 +79,7 @@ email: ''
 # Available user_groups are defined at /content/people/index.html
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD candidates
+  - Former members
 ---
 
 Pelayo here! I am a PhD student at the QBCSM group working focused on unraveling the challenging physico-chemical properties of hybrid perovskites.
