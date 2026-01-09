@@ -3,6 +3,7 @@ title: Science Week fair
 date: 2025-11-08
 authors: [tom, sara, pablo]
 tags: [outreach]
+all_day: true
 ---
 
 Tom, Sara and Pablo participated in the Science week fair, aimed to all publics.
