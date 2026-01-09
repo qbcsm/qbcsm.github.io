@@ -1,5 +1,5 @@
 ---
-title: Events & Outreach
+title: News & Events
 
 # Listing view
 view: compact
