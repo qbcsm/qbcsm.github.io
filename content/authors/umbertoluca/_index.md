@@ -80,6 +80,6 @@ user_groups:
   - Postdocs
 ---
 
-Postdoctoral researcher specializing in the physics of matter under extreme conditions.
+Researcher specializing in the physics of matter under extreme conditions.
 
-His work focuses on uncovering microscopic structural, dynamical, and quantum phenomena in molecular systems through scattering experiments combined with complex sample environments.
+His work focuses on uncovering microscopic structural and dynamical properties of molecular systems through scattering experiments combined with complex sample environments.
