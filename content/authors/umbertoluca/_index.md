@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Post doctoral researcher
+role: Gipuzkoa Fellow
 
 # Organizations/Affiliations
 organizations:
