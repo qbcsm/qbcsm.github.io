@@ -85,4 +85,4 @@ Post-doctoral researcher working on analysing candidate materials for energy sto
 
 Light-based spectroscopic measurements, such as Raman and FTIR, are combined with neutron and x-ray scattering experiments to determine the structure and composition of these candidate materials.
 In addition differential scanning calorimetry (DSC) is used to determine, amongst others, the temperature of phase change and the energy storage.
-Finally fast DSC is used to study if any of the samples can vitrify and, in some occasion, to aces new metastable phases.
+Finally fast DSC is used to study if any of the samples can vitrify and, in some occasion, to access new metastable phases.
