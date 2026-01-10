@@ -81,5 +81,5 @@ user_groups:
   - Postdocs
 ---
 
-I specialize in the physics of matter under extreme conditions. My work focuses on uncovering microscopic structural and dynamical properties of molecular systems through scattering experiments combined with complex sample environments. I am an expert user of large-scale facilities (synchrotrons and neutron
+I specialize in the physics of matter under extreme conditions. My work focuses on uncovering microscopic structural and dynamical properties through scattering experiments combined with complex sample environments. I am an expert user of large-scale facilities (synchrotrons and neutron
 sources).
