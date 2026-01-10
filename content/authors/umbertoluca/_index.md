@@ -25,10 +25,11 @@ organizations:
 bio: Postdoc at the Materials Physics Center, Donostia.
 
 interests:
-  - Neutron science
   - Molecular systems
   - Clathrates
-
+- Neutron science
+- X-ray diffraction
+  
 education:
   courses:
     - course: PhD in Physics
@@ -81,6 +82,4 @@ user_groups:
   - Postdocs
 ---
 
-Researcher specializing in the physics of matter under extreme conditions.
-
-His work focuses on uncovering microscopic structural and dynamical properties of molecular systems through scattering experiments combined with complex sample environments.
+I specialize in the physics of matter under extreme conditions. My work focuses on uncovering microscopic structural and dynamical properties of molecular systems through scattering experiments combined with complex sample environments.
