@@ -26,6 +26,7 @@ bio: Postdoc at the Materials Physics Center, Donostia.
 
 interests:
   - Molecular systems
+  - Extreme conditions
   - Clathrates
   - Neutron science
   - X-ray diffraction
