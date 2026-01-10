@@ -29,7 +29,7 @@ interests:
   - Clathrates
 - Neutron science
 - X-ray diffraction
-  
+
 education:
   courses:
     - course: PhD in Physics
