@@ -83,4 +83,4 @@ user_groups:
 
 Physicist specializing in the behaviour of matter under extreme conditions. His research focuses on revealing microscopic structural and dynamical properties using scattering experiments combined with advanced sample environments. He is an expert user of large-scale facilities, including synchrotron and neutron sources.
 
-I currently focus on dynamically disordered materials for energy-related applications.
+Currently focusing on dynamically disordered materials for energy-related applications.
