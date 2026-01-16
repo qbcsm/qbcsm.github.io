@@ -86,7 +86,7 @@ email: ''
 # Available user_groups are defined at /content/people/index.html
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD candidates
+  - Former members
 ---
 
 My research centers on the intricate interplay of isotopic effects and stabilization pathways within perovskite materials, a promising class of semiconductors for solar energy conversion.
