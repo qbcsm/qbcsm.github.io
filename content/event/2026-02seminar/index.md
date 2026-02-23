@@ -1,6 +1,6 @@
 ---
 title: Neutron Scattering Seminar
-date: 2025-02-04
+date: 2026-02-04
 authors: [umbertoluca]
 tags: [outreach]
 all_day: true
