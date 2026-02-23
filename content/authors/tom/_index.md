@@ -78,7 +78,7 @@ email: ''
 # Available user_groups are defined at /content/people/index.html
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Postdocs
+  - Former members
 ---
 
 Post-doctoral researcher working on analysing candidate materials for energy storage and materials for CO2 capture. 
