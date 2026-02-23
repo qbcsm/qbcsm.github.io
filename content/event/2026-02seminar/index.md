@@ -6,7 +6,7 @@ tags: [outreach]
 all_day: true
 ---
 
-Prof.a Elena Solana Madruga (Universidad Complutense de Madrid) visited us in Donostia and gave a seminar as part of the ongoing Neutron Scattering Series.
+Prof.a Elena Solana Madruga (Universidad Complutense de Madrid) visited us in Donostia-San Sebastián and gave a seminar as part of the ongoing Neutron Scattering Series.
 
 
 
