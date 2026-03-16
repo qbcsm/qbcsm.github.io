@@ -81,6 +81,6 @@ user_groups:
   - Postdocs
 ---
 
-Physicist specializing in the behaviour of matter under extreme conditions. His research focuses on revealing microscopic structural and dynamical properties using scattering experiments combined with advanced sample environments. He is an expert user of large-scale facilities, including synchrotron and neutron sources.
+Independent Research Fellow ("Gipuzkoa Fellow") specializing in the behaviour of matter under extreme conditions. His research focuses on revealing microscopic structural and dynamical properties using scattering experiments combined with advanced sample environments. He is an expert user of large-scale facilities, including synchrotron and neutron sources.
 
 Currently focusing on dynamically disordered materials for energy-related applications.
