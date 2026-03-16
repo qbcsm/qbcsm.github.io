@@ -1,5 +1,5 @@
 ---
-title: Neutron Scattering Seminar
+title: Seminar by Prof.a Elena Solana Madruga
 date: 2026-02-04
 authors: [umbertoluca]
 tags: [outreach]
