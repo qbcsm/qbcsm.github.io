@@ -1,24 +1,29 @@
 ---
-title: 'Carbonated alkali-activated cementitious material with radiative cooling properties for urban heat mitigation'
+title: 'Solid-solid phase transitions across orientationally disordered phases: The case of tetrachloro-m-xylene'
 authors:
-- Guido Goracci
-- Nick Adams
-- tom
-- Amaia Iturrospe Ibarra
-- José Antonio Ibáñez-Gómez
-- Arantxa Arbe Mendez
-- Karen Allacker
-- Jorge Sánchez Dolado
+- Jonathan F. Gebbia
+- Ares Sanuy
+- Michela Romanini
+- David Aguilà
+- Phillipe Negrier
+- Stephane Massip
+- María del Barrio
+- felix
+- Sanghamitra Mukhopadhyay
+- Markus Appel
+- Claudio Cazorla
+- Luis Carlos Pardo
+- Josep Lluís Tamarit
 #author_notes:
 #- Equal contribution
 #- whatever
 #- Equal contribution
-date: 2026-01-26
+date: 2026-02-02
 doi: 
-DOI: https://doi.org/10.1016/j.clema.2026.100380 
+DOI: https://doi.org/10.1103/pcsf-sfml 
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2026-03-05
+publishDate: 2026-02-02
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -26,18 +31,29 @@ publishDate: 2026-03-05
 publication_types: [article-journal]
 
 # Publication name and optional abbreviated publication name.
-publication: Cleaner Materials 19, 100380 (2026)
+publication: Phys. Rev. E, 113, 024101 (2026)
 publication_short:
 
-abstract: Urban areas generate 70% of global CO2 emissions, with cement production contributing 8% while exacerbating urban heat islands that increase cooling demands. To address these interconnected challenges through cleaner production methodologies, this exploratory study developed carbonated alkali-activated cementitious materials through ambient pressure carbonation of upcycled ground granulated blast furnace slag (GGBS) and calcium hydroxide composites (25–75 wt%). Utilizing a low-energy material pelletization technology, specimens were characterized using XRD, TGA, Raman spectroscopy, and SEM. Radiative cooling performance was evaluated through spectral measurements and field testing in desert conditions. The optimized formulation indicates promising exceptional CO2 sequestration (18.6 wt%) through mineralization. Solar reflectance index reached 90, significantly exceeding conventional white concrete (SRI ≈ 80) and approaching commercial cool materials (SRI ≈ 85–119). Field testing demonstrated 16°C lower surface temperatures compared to ordinary Portland cement under 1000 W/m2 solar irradiance in Almeria’s Desert. Microstructural analysis revealed synergistic carbonation-pozzolanic reactions creating dense matrices with hierarchical pore refinement. This dual-benefit approach simultaneously addresses embodied and operational carbon emissions, offering transformative potential for sustainable urban infrastructure. The material’s exceptional cooling performance rivals specialized systems while capturing substantial atmospheric CO2, representing a paradigm shift toward carbon-negative cleaner materials.
+abstract: We uncover a previously unreported solid-solid phase transition in tetrachloro-m-xylene (TCMX), a hexasubstituted benzene derivative exhibiting orientational disorder. Differential scanning calorimetry and powder
+x-ray diffraction reveal a weak but reproducible phase transition near 437 K, corresponding to a continuous,
+second-order symmetry change from monoclinic P21/n (phase II) to orthorhombic Pnnm (phase I). Despite this
+structural reorganization, quasielastic neutron scattering demonstrates that molecular dynamics remain governed
+by discrete 60◦ in-plane reorientational jumps consistent with the pseudosixfold molecular symmetry. The
+activation energy is unaffected, while only slight variations in relaxation times and effective rotational radii
+are detected. Molecular dynamics simulations reproduce the transition and clarify its microscopic origin. In
+phase II, weak orientational correlations between adjacent molecular columns are present, but these constraints
+vanish in phase I, restoring higher symmetry without altering the underlying reorientational mechanism. This
+study establishes TCMX as a rare example of a disorder-disorder transition in which molecular dynamics are
+preserved while collective orientational correlations reorganize. More broadly, our results highlight how subtle
+symmetry changes govern emergent behavior in disordered crystals, advancing the understanding of plastic
+phases and phase transitions in complex condensed matter systems.
 
 # Summary. An optional shortened abstract.
 summary:
 
 tags:
-- energy storage
-- CO2 absorption
-- Cements
+- dynamical disorder
+- neutron scattering
 featured: false
 
 # links:
