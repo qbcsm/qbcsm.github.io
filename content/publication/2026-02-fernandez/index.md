@@ -34,19 +34,7 @@ publication_types: [article-journal]
 publication: Phys. Rev. E, 113, 024101 (2026)
 publication_short:
 
-abstract: We uncover a previously unreported solid-solid phase transition in tetrachloro-m-xylene (TCMX), a hexasubstituted benzene derivative exhibiting orientational disorder. Differential scanning calorimetry and powder
-x-ray diffraction reveal a weak but reproducible phase transition near 437 K, corresponding to a continuous,
-second-order symmetry change from monoclinic P21/n (phase II) to orthorhombic Pnnm (phase I). Despite this
-structural reorganization, quasielastic neutron scattering demonstrates that molecular dynamics remain governed
-by discrete 60◦ in-plane reorientational jumps consistent with the pseudosixfold molecular symmetry. The
-activation energy is unaffected, while only slight variations in relaxation times and effective rotational radii
-are detected. Molecular dynamics simulations reproduce the transition and clarify its microscopic origin. In
-phase II, weak orientational correlations between adjacent molecular columns are present, but these constraints
-vanish in phase I, restoring higher symmetry without altering the underlying reorientational mechanism. This
-study establishes TCMX as a rare example of a disorder-disorder transition in which molecular dynamics are
-preserved while collective orientational correlations reorganize. More broadly, our results highlight how subtle
-symmetry changes govern emergent behavior in disordered crystals, advancing the understanding of plastic
-phases and phase transitions in complex condensed matter systems.
+abstract: We uncover a previously unreported solid-solid phase transition in tetrachloro-m-xylene (TCMX), a hexasubstituted benzene derivative exhibiting orientational disorder. Differential scanning calorimetry and powder x-ray diffraction reveal a weak but reproducible phase transition near 437 K, corresponding to a continuous, second-order symmetry change from monoclinic P21/n (phase II) to orthorhombic Pnnm (phase I). Despite this structural reorganization, quasielastic neutron scattering demonstrates that molecular dynamics remain governed by discrete 60◦ in-plane reorientational jumps consistent with the pseudosixfold molecular symmetry. The activation energy is unaffected, while only slight variations in relaxation times and effective rotational radii are detected. Molecular dynamics simulations reproduce the transition and clarify its microscopic origin. In phase II, weak orientational correlations between adjacent molecular columns are present, but these constraints vanish in phase I, restoring higher symmetry without altering the underlying reorientational mechanism. This study establishes TCMX as a rare example of a disorder-disorder transition in which molecular dynamics are preserved while collective orientational correlations reorganize. More broadly, our results highlight how subtle symmetry changes govern emergent behavior in disordered crystals, advancing the understanding of plastic phases and phase transitions in complex condensed matter systems.
 
 # Summary. An optional shortened abstract.
 summary:
