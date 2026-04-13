@@ -47,7 +47,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.sciencedirect.com/science/article/pii/S2772397626000158
+url_pdf: https://journals.aps.org/pre/abstract/10.1103/pcsf-sfml
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: ''
 #url_poster: ''
