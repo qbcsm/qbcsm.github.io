@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Visitor
+role: Visitor through Women for Africa program
 
 # Organizations/Affiliations
 #organizations:
