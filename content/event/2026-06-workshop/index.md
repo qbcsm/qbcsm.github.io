@@ -2,7 +2,7 @@
 title: Neutron Diffraction Workshop
 date: 2026-06-15
 authors: [felix]
-tags: [outreach]
+tags: [conference]
 all_day: true
 ---
 
