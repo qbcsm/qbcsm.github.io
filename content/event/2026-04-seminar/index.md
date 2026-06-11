@@ -6,6 +6,6 @@ tags: [outreach]
 all_day: true
 ---
 
-Prof. Elisa Borfecchia (University of Turin, Italy) visited us in Donostia-San Sebastián and gave a seminar as part of the ongoing CFM Colloquium Series
+Prof.ssa Elisa Borfecchia (University of Turin, Italy) visited us in Donostia-San Sebastián and gave a seminar as part of the ongoing CFM Colloquium Series
 
 
