@@ -6,5 +6,5 @@ tags: [people]
 all_day: true
 ---
 
-We welcome Dr. Rita Omamuyovwi Akemu from Covenant University, Nigeria, who was awarded a "Woman for Africa" grant to join our group
+We welcome Dr. Rita Omamuyovwi Akemu from Covenant University, Nigeria, who was awarded a "Woman for Africa" grant to join our group.
 
