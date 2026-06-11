@@ -6,4 +6,4 @@ tags: [conference]
 all_day: true
 ---
 
-We organized a two-days workshop on Neutron Activation Analysis by Dr. Carlo Cazzaniga from the ISIS Neutron and Muon Source (UK). This was part of the ongoing Neutron Scattering Series. Funding was provided by Estrategia IKUR 2030
+We organized a two-days workshop on Neutron Activation Analysis by Dr. Carlo Cazzaniga from the ISIS Neutron and Muon Source (UK). This was part of the ongoing Neutron Scattering Series. Funding was provided by Estrategia IKUR 2030.
