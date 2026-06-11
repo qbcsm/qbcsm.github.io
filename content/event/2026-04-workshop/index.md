@@ -2,7 +2,7 @@
 title: Neutron Activation Analysis Workshop
 date: 2026-04-20
 authors: [felix]
-tags: [outreach]
+tags: [conference]
 all_day: true
 ---
 
