@@ -49,9 +49,9 @@ social:
 #  - icon: google-scholar
 #    icon_pack: fab
 #    link: https://scholar.google.co.uk/citations?user=7EoJbkIAAAAJ&hl=en
-#  - icon: researchgate
-#    icon_pack: fab
-#    link: https://www.researchgate.net/profile/Silvia-Cristofaro?ev=hdr_xprf
+  - icon: researchgate
+    icon_pack: fab
+    link: https:https://www.researchgate.net/profile/Killian-Henry
 #  - icon: github
 #    icon_pack: fab
 #    link: https://github.com/YOUR-USERNAME
