@@ -34,10 +34,10 @@ abstract: The use of pulsed compact neutron systems to implement energy-resolved
 summary:
 
 tags:
-neutron scattering
-compact neutron sources
-prompt-gamma activation analysis
-cementitious media
+- neutron scattering
+- compact neutron sources
+- prompt-gamma activation analysis
+- cementitious media
 featured: false
 
 # links:
