@@ -1,9 +1,10 @@
 ---
 title: 'High-pressure synthesis of an arsenopyrite-type polymorph of rhenium disulfide recoverable to ambient conditions'
 authors:
-- Author 1
-- Author 2
-- felix
+- Umbertoluca Ranieri
+- Simone Di Cataldo
+- James Spender
+- Dominique Laniel
 #author_notes:
 #- Equal contribution
 date: 2026-03-30
