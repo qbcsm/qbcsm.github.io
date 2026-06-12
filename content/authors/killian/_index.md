@@ -51,7 +51,7 @@ social:
 #    link: https://scholar.google.co.uk/citations?user=7EoJbkIAAAAJ&hl=en
   - icon: researchgate
     icon_pack: fab
-    link: https:https://www.researchgate.net/profile/Killian-Henry
+    link: https://www.researchgate.net/profile/Killian-Henry
 #  - icon: github
 #    icon_pack: fab
 #    link: https://github.com/YOUR-USERNAME
