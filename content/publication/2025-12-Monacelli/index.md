@@ -4,7 +4,7 @@ authors:
 - Lorenzo Monacelli
 - Maria Rescigno
 - Alasdair Nicholls
-- Umbertoluca Ranieri
+- umbertoluca
 - Simone Di Cataldo
 - Livia Eleonora Bove
 #author_notes:
