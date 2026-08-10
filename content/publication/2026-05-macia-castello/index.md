@@ -2,7 +2,7 @@
 title: 'Optimization of the limits of detection and quantitation on pulsed compact neutron systems – the cases of chlorine and sulfur in cementitious media'
 authors:
 - cristina
-- daniel
+- dani
 - mattia
 - Jorge S. Dolado
 - Yasuo Wakabayashi
