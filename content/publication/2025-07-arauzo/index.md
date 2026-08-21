@@ -23,7 +23,7 @@ publication_types: [article]
 
 # Publication name and optional abbreviated publication name.
 publication: ChemRxiv Materials Science
-publication_short: ChemRxiv. 2025; doi:10.26434/chemrxiv-2025-jd7bj
+publication_short: ChemRxiv. 2025; doi:10.26434/chemrxiv-2025-l8hdm
 
 abstract: Metal halide perovskites (MHPs) hold great potential to integrate future mass-produced photovoltaic technologies owing to their exceptional power conversion efficiencies and charge-carrier transport properties. However, their performance is still hindered by a poor understanding of their complex soft structures and the role played by defects and impurities in their optoelectronic properties. For the first time, the molar heat capacities of two archetypal MHPs – MAPbI3 and FAPbI3 – as well as two thermodynamically stable non-perovskite specimens δ-FAPbI3 and δ-CsPbI3 have been measured down to 0.35 K. The behavior of the four crystals below 10 K departs notably from the predictions of the Debye model. All samples exhibit a broad feature in the Debye-reduced C/T3 representation that can be interpreted from harmonic lattice dynamics calculations as the excitation of soft optical vibrations. We also find that in all cases, the sub-Kelvin regime evinces a common trend across all samples, which may be interpreted within the framework of incoherent tunneling. The application of a magnetic field enables microscopic assessment of two-level systems in δ-FAPbI3, identifying them as intrinsic paramagnetic centers . These findings highlight the universal presence of low-energy excitations in MHPs and their crucial link to dynamic disorder, providing a deeper understanding of the microscopic origins of phase instability and thermal anomalies in this class of materials.
 
