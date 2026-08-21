@@ -13,7 +13,7 @@ authors:
 #- whatever
 #- Equal contribution
 date: 2024-12-18
-doi: https://pubs.acs.org/doi/10.1021/acs.jpca.4c06380
+doi: 10.1021/acs.jpca.4c06380
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2024-01-03T00:00:00Z
