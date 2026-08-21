@@ -6,7 +6,7 @@ authors:                              #* Just first name in lowercase for those 
 - felix
 - M. Wolff
 - M. Karlsson
-- F. Demmel b
+- F. Demmel
 date:  2019-12-11                               #* YYYY-MM-DD
 doi:  https://doi.org/10.1016/j.nima.2019.162740                                #* https://doi.org/...
 publication: Nuclear inst. & Meth. in Phys. Res. A, 947, 11 162740 (2019)                         #  e.g., J. Phys. Chem. Lett. 2025, 16, 1, 184–190.
