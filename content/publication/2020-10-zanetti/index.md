@@ -4,8 +4,8 @@ title: "Crystal Analyzers for Indirect-Geometry Broadband Neutron Spectrometers:
 authors:                              #* Just first name in lowercase for those from our group
 - M. Zanetti
 - F. Mase
-- Svemir Rudić
-- Jeff Armstrong
+- S. Rudić
+- J. Armstrong
 - S.F. Parker
 - felix
 date: 2020-10-08                      #*
