@@ -20,7 +20,7 @@ publishDate: 2026-03-30
 publication_types: [article-journal]
 
 # Publication name and optional abbreviated publication name.
-publication: Phys. Rev. Materials (2026)
+publication: Phys. Rev. Materials 10, 034008 (2026)
 publication_short:
 
 abstract: Transition-metal dichalcogenides have attracted a great deal of attention in the context of two-dimensional materials because of their electronic properties, derived from their layered crystal structures, as well as their exfoliability. Surprisingly, the combination of high pressure and high temperature has been rarely exploited in the study of these systems, although it is expected to be an efficient way of inducing the formation of novel polymorphs. Here, rhenium and carbon disulfide were observed to react at a pressure of 54 GPa in a laser-heated diamond anvil cell to form a hitherto unknown polymorph of rhenium disulfide, denoted as mP12-ReS2 in the Pearson notation. Its crystal structure was solved and refined using synchrotron single-crystal x-ray diffraction data, revealing that mP12-ReS2 adopts the arsenopyrite structure type (space group P21/c).
