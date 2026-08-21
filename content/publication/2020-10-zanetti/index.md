@@ -5,7 +5,7 @@ authors:                              #* Just first name in lowercase for those 
 - M. Zanetti
 - F. Mase
 - Svemir Rudić
-- James Armstrong
+- Jeff Armstrong
 - S.F. Parker
 - felix
 date: 2020-10-08                      #*
