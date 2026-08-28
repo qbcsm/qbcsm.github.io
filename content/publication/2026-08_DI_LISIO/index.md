@@ -40,7 +40,7 @@ featured: false
 # links:
 # - name: ""
 # url: ""
-url_pdf:
+url_pdf: https://pubs.rsc.org/en/content/articlepdf/2026/qo/d6qo00599c
 #url_code: ''
 #url_dataset: ''
 #url_poster: ''
