@@ -25,7 +25,7 @@ organizations:
 bio: Postdoc at the Materials Physics Center, Donostia.
 
 interests:
-  - Molecular systems
+  - Light molecules
   - Extreme conditions
   - Clathrates
 
@@ -78,7 +78,7 @@ email: ''
 # Available user_groups are defined at /content/people/index.html
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Postdocs
+  - Research Fellows
 ---
 
 Independent Research Fellow ("Gipuzkoa Fellow") specializing in the behaviour of matter under extreme conditions. His research focuses on revealing microscopic structural and dynamical properties using scattering experiments combined with advanced sample environments. He is an expert user of large-scale facilities, including synchrotron and neutron sources.
