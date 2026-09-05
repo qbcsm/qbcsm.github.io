@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Postdoc at the Materials Physics Center, Donostia.
+bio: Gipuzkoa Fellow at the Materials Physics Center, Donostia.
 
 interests:
   - Light molecules
