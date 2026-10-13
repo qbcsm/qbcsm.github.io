@@ -40,4 +40,19 @@ url_slides: ''
 url_video: ''
 
 # Markdown Slides (optional).
-#   Associate this talk
+#   Associate this talk with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+slides:
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects:
+---
+
+It was a pleasure to attend the 28th JCNS Neutron Laboratory Course 2026. The first week was a series of lectures on **neutron scattering** theory and techniques at Forschungszentrum Jülich. The second week was hands-on experiments on the instruments at the **Institut Laue-Langevin (ILL)** in Grenoble.
+The course was a great opportunity to gain practical experience with **neutron instrumentation** and to exchange ideas with fellow young researchers from across Europe.
