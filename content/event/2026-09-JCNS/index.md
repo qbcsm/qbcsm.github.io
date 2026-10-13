@@ -25,7 +25,7 @@ all_day: true
 # publishDate: 2024-11-05T00:00:00Z
 
 authors: [Sara]
-tags: [School]
+tags: [conference]
 
 # Is this a featured talk? (true/false)
 featured: false
