@@ -22,7 +22,7 @@ date_end: 2026-09-18
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2024-11-05T00:00:00Z
+publishDate: 2026-09-18T00:00:00Z
 
 authors: [Sara]
 tags: [conference]
