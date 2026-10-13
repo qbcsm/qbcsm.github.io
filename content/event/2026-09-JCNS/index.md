@@ -2,7 +2,7 @@
 title: JCNS School
 
 event:JCNS School 2026
-event_url: [https://workshops.ill.fr/event/425/](https://www.fz-juelich.de/en/jcns/news/events/2026/jcns-labcourse2026)
+event_url: https://workshops.ill.fr/event/425/](https://www.fz-juelich.de/en/jcns/news/events/2026/jcns-labcourse2026
 
 location: Institut Laue-Langevin ILL & JCNS
 address:
