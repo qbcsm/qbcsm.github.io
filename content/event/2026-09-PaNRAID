@@ -1,0 +1,58 @@
+---
+title: PaNRAID Formation
+
+event: PaNRAID Formation 2026
+event_url: https://formation.pepr-diadem.fr/formation-panraid
+
+location: Village de Vacances du C.N.R.S.
+address:
+  street:
+  city: Saint-Pierre d'Oléron
+  region:
+  postcode: ''
+  country: France
+
+summary: 
+abstract: ''
+
+# Talk start and end times.
+#   End time can optionally be hidden by prefixing the line with `#`.
+date: 2026-09-21
+date_end: 2026-09-26
+all_day: true
+
+# Schedule page publish date (NOT talk date).
+publishDate: 2026-09-26T00:00:00Z
+
+authors: [Silvia Cristofaro]
+tags: [conference]
+
+# Is this a featured talk? (true/false)
+featured: false
+
+image:
+  caption: 'Group Picture'
+  focal_point: Center
+
+url_code: ''
+url_pdf: ''
+url_slides: ''
+url_video: ''
+
+# Markdown Slides (optional).
+#   Associate this talk with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+slides:
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects:
+---
+
+Participated in the **PaNRAID** (Photons and Neutrons Realistic Artificial Intelligence Dataset) workshop in Saint-Pierre d'Oléron (France), organised by the DIADEM Academy. The training focused on generating realistic simulated experimental data by combining materials modelling with virtual beamline simulations using **McStas** and **McXtrace**.
+A primary highlight was training and applying **machine learning** models on these physics-based simulated datasets.
