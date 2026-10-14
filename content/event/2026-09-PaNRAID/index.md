@@ -1,3 +1,4 @@
+---
 title: PaNRAID Formation
 
 event: PaNRAID Formation 2026
@@ -53,5 +54,5 @@ slides:
 projects:
 ---
 
-Participated in the **PaNRAID** (Photons and Neutrons Realistic Artificial Intelligence Dataset) workshop in Saint-Pierre d'Oléron (France), organised by the DIADEM Academy. The training focused on generating realistic simulated experimental data by combining materials modelling with virtual beamline simulations using **McStas** and **McXtrace**.
+It was a pleasure to attend the PaNRAID (Photons and Neutrons Realistic Artificial Intelligence Dataset) Formation 2026 in Saint-Pierre d'Oléron, organised by the DIADEM Academy. The training focused on generating realistic simulated experimental data by combining materials modelling with virtual beamline simulations using **McStas** and **McXtrace**.
 A primary highlight was training and applying **machine learning** models on these physics-based simulated datasets.
